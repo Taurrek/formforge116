@@ -1,0 +1,18 @@
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Landing from "./pages/Landing";
+import Upload from "./pages/Upload";
+import Sessions from "./pages/Sessions";
+
+function App() {
+  return (
+    <Router>
+      <Routes>
+        <Route path="/" element={<Landing />} />
+        <Route path="/upload" element={<Upload />} />
+        <Route path="/sessions" element={<Sessions />} />
+      </Routes>
+    </Router>
+  );
+}
+
+export default App;

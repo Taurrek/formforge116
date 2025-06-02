@@ -1,0 +1,4 @@
+joint,angle,torque
+knee,175,30
+elbow,160,22
+shoulder,90,15

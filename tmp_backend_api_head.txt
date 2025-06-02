@@ -1,0 +1,40 @@
+from fastapi import FastAPI, UploadFile, File, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import JSONResponse
+import os
+import shutil
+import json
+
+app = FastAPI()
+
+# Allow frontend (React) access to backend API - adjust origin if your frontend is hosted elsewhere
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # For dev only, in prod specify frontend domain here
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+SESSIONS_DIR = "sessions"
+BASELINES_DIR = "baselines"
+
+os.makedirs(SESSIONS_DIR, exist_ok=True)
+os.makedirs(BASELINES_DIR, exist_ok=True)
+
+@app.get("/")
+def root():
+    return {"message": "Welcome to FormForge backend API"}
+
+@app.get("/sessions")
+def list_sessions():
+    try:
+        sessions = [d for d in os.listdir(SESSIONS_DIR) if os.path.isdir(os.path.join(SESSIONS_DIR, d))]
+        return {"sessions": sessions}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/upload_session/{session_name}")
+async def upload_session(session_name: str, file: UploadFile = File(...)):
+    session_path = os.path.join(SESSIONS_DIR, session_name)
+    if os.path.exists(session_path):

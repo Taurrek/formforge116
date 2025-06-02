@@ -1,0 +1,40 @@
+# api_server.py
+from fastapi import FastAPI, UploadFile, File, Form
+from fastapi.responses import JSONResponse
+from fastapi.middleware.cors import CORSMiddleware
+import os
+import shutil
+import uuid
+
+app = FastAPI()
+
+# CORS setup for frontend-backend communication
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+UPLOAD_DIR = "uploaded_videos"
+RESULTS_DIR = "processed_results"
+os.makedirs(UPLOAD_DIR, exist_ok=True)
+os.makedirs(RESULTS_DIR, exist_ok=True)
+
+@app.post("/sessions/upload")
+async def upload_video(session_name: str = Form(...), file: UploadFile = File(...)):
+    session_folder = os.path.join(UPLOAD_DIR, session_name.replace(" ", "_"))
+    os.makedirs(session_folder, exist_ok=True)
+
+    file_path = os.path.join(session_folder, file.filename)
+    with open(file_path, "wb") as f:
+        shutil.copyfileobj(file.file, f)
+
+    # Fake processing placeholder
+    result_id = str(uuid.uuid4())
+    with open(os.path.join(RESULTS_DIR, f"{result_id}.json"), "w") as f:
+        f.write(f'{{"session": "{session_name}", "status": "processed", "file": "{file.filename}"}}')
+
+    return JSONResponse(content={"message": "Upload complete", "result_id": result_id})
+

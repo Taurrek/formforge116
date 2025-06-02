@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>FormForge Upload</title>
+<style>
+  body { font-family: Arial, sans-serif; padding: 2em; }
+  .upload-box {
+    border: 2px dashed #888;
+    padding: 2em;
+    text-align: center;
+    margin-bottom: 1em;
+    cursor: pointer;
+  }
+  .upload-box.dragover { border-color: #06c; }
+  #feedback { margin-top: 1em; }
+</style>
+</head>
+<body>
+<h1>Upload Video for Injury Risk Analysis</h1>
+
+<form id="upload-form" enctype="multipart/form-data">
+  <div class="upload-box" id="upload-box">
+    Drag and drop your video here or click to select
+  </div>
+  <input type="file" id="video-file" name="video" accept="video/*" style="display:none" />
+  <button type="submit">Upload & Analyze</button>
+</form>
+
+<div id="feedback"></div>
+
+<script>
+  const uploadBox = document.getElementById('upload-box');
+  const fileInput = document.getElementById('video-file');
+  const feedback = document.getElementById('feedback');
+  const form = document.getElementById('upload-form');
+
+  uploadBox.addEventListener('click', () => fileInput.click());
+
+  uploadBox.addEventListener('dragover', (e) => {
+    e.preventDefault();
+    uploadBox.classList.add('dragover');
+  });
+
+  uploadBox.addEventListener('dragleave', (e) => {
+    e.preventDefault();
+    uploadBox.classList.remove('dragover');
+  });
+
+  uploadBox.addEventListener('drop', (e) => {
+    e.preventDefault();
+    uploadBox.classList.remove('dragover');
+    if (e.dataTransfer.files.length) {
+      fileInput.files = e.dataTransfer.files;
+    }
+  });
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    if (!fileInput.files.length) {
+      feedback.textContent = "Please select a video file.";
+      return;
+    }
+    feedback.textContent = "Uploading and analyzing... please wait.";
+
+    const formData = new FormData();
+    formData.append('video', fileInput.files[0]);
+
+    try {
+      const response = await fetch('/api/injury-risk', {
+        method: 'POST',
+        body: formData
+      });
+      const data = await response.json();
+      if(data.status === "success") {
+        feedback.innerHTML = `
+          <p><b>Analysis complete!</b></p>
+          <p>Risk Score: ${data.feedback.risk_score}</p>
+          <p>Comments:</p>
+          <ul>${data.feedback.comments.map(c => `<li>${c}</li>`).join('')}</ul>
+          <p><a href="${data.results_url}">View detailed results</a></p>
+        `;
+      } else {
+        feedback.textContent = "Error: " + (data.error || "Unknown error");
+      }
+    } catch (err) {
+      feedback.textContent = "Failed to upload or analyze: " + err.message;
+    }
+  });
+</script>
+
+</body>
+</html>

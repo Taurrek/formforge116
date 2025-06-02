@@ -1,0 +1,89 @@
+import os
+import uuid
+from flask import Flask, request, jsonify, render_template, send_from_directory, url_for
+from werkzeug.utils import secure_filename
+
+app = Flask(__name__)
+
+UPLOAD_FOLDER = "formforge_sessions"
+os.makedirs(UPLOAD_FOLDER, exist_ok=True)
+
+ALLOWED_EXTENSIONS = {'mp4', 'mov', 'avi', 'mkv'}
+
+app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+
+def allowed_file(filename):
+    return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_EXTENSIONS
+
+def analyze_video(video_path, session_path):
+    import shutil
+    shutil.copy(video_path, os.path.join(session_path, 'processed_video.mp4'))
+
+    feedback = {
+        "message": "Injury risk analyzed",
+        "status": "success",
+        "joint_angles": {"knee": 45, "elbow": 30},
+        "risk_score": 0.12,
+        "comments": ["Good form", "Keep back straight"]
+    }
+    import json
+    with open(os.path.join(session_path, 'feedback.json'), 'w') as f:
+        json.dump(feedback, f)
+
+    return feedback
+
+@app.route('/')
+def index():
+    return render_template('upload.html')
+
+@app.route('/api/injury-risk', methods=['POST'])
+def injury_risk():
+    if 'video' not in request.files:
+        return jsonify({"error": "No video part"}), 400
+
+    file = request.files['video']
+
+    if file.filename == '':
+        return jsonify({"error": "No selected file"}), 400
+
+    if not allowed_file(file.filename):
+        return jsonify({"error": "Unsupported file type"}), 400
+
+    filename = secure_filename(file.filename)
+    session_id = str(uuid.uuid4())
+    session_path = os.path.join(app.config['UPLOAD_FOLDER'], session_id)
+    os.makedirs(session_path, exist_ok=True)
+
+    video_path = os.path.join(session_path, filename)
+    file.save(video_path)
+
+    feedback = analyze_video(video_path, session_path)
+
+    return jsonify({
+        "message": "Injury risk analyzed",
+        "status": "success",
+        "session_id": session_id,
+        "feedback": feedback,
+        "results_url": url_for('view_results', session_id=session_id)
+    })
+
+@app.route('/results/<session_id>')
+def view_results(session_id):
+    session_path = os.path.join(app.config['UPLOAD_FOLDER'], session_id)
+    if not os.path.exists(session_path):
+        return "Session not found", 404
+
+    import json
+    with open(os.path.join(session_path, 'feedback.json')) as f:
+        feedback = json.load(f)
+
+    return render_template('results.html',
+                           session_id=session_id,
+                           feedback=feedback)
+
+@app.route('/video/<session_id>/<filename>')
+def get_video(session_id, filename):
+    return send_from_directory(os.path.join(app.config['UPLOAD_FOLDER'], session_id), filename)
+
+if __name__ == '__main__':
+    app.run(debug=True)

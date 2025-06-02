@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.npy
+*.mp4
+sessions/*
+!sessions/README.md
+test_output/*
+!test_output/README.md

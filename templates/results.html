@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>FormForge Results</title>
+<style>
+  body { font-family: Arial, sans-serif; padding: 2em; }
+  video { max-width: 100%; height: auto; margin-bottom: 1em; }
+</style>
+</head>
+<body>
+
+<h1>Session Results</h1>
+
+<h2>Risk Score: {{ feedback.risk_score }}</h2>
+<ul>
+  {% for comment in feedback.comments %}
+  <li>{{ comment }}</li>
+  {% endfor %}
+</ul>
+
+<h3>Processed Video</h3>
+<video controls>
+  <source src="{{ url_for('get_video', session_id=session_id, filename='processed_video.mp4') }}" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
+
+<p><a href="{{ url_for('index') }}">Upload another video</a></p>
+
+</body>
+</html>
