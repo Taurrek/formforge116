@@ -1,0 +1,36 @@
+{
+  "strain_timeline": [
+    {
+      "timestamp": 0.0,
+      "strained_joints": {
+        "elbow": 4.9
+      }
+    },
+    {
+      "timestamp": 0.1,
+      "strained_joints": {
+        "elbow": 4.8,
+        "shoulder": 2.9
+      }
+    },
+    {
+      "timestamp": 0.2,
+      "strained_joints": {
+        "elbow": 9.2,
+        "shoulder": 2.8
+      }
+    },
+    {
+      "timestamp": 0.3,
+      "strained_joints": {
+        "elbow": 9.1,
+        "shoulder": 2.7,
+        "knee": 1.9
+      }
+    }
+  ],
+  "parameters": {
+    "strain_threshold": 100.0,
+    "decay_rate": 0.1
+  }
+}

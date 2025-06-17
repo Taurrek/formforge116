@@ -1,0 +1,42 @@
+[
+  {
+    "athlete_id": "Athlete_1",
+    "events": [
+      {
+        "timestamp": 1.0,
+        "type": "fatigue",
+        "value": "hip drop"
+      },
+      {
+        "timestamp": 1.0,
+        "type": "flaw",
+        "value": "knee valgus"
+      },
+      {
+        "timestamp": 2.5,
+        "type": "fatigue",
+        "value": "slouching"
+      }
+    ]
+  },
+  {
+    "athlete_id": "Athlete_2",
+    "events": [
+      {
+        "timestamp": 1.0,
+        "type": "flaw",
+        "value": "arm cross"
+      },
+      {
+        "timestamp": 2.5,
+        "type": "fatigue",
+        "value": "foot drag"
+      },
+      {
+        "timestamp": 2.5,
+        "type": "flaw",
+        "value": "head tilt"
+      }
+    ]
+  }
+]
