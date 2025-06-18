@@ -1,0 +1,9 @@
+{
+  "timestamp": 1749502829.3785584,
+  "fatigue_score": 0.42,
+  "frame": {
+    "joint_1": 29.2,
+    "joint_2": 44.1,
+    "joint_3": 13.5
+  }
+}

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>FormForge Demo</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; background: #f9f9f9; }
+    h1, h2 { margin-top: 2rem; }
+    canvas { max-width: 100%; }
+    .card { background: white; padding: 1.5rem; margin-top: 1rem; border-radius: 8px; box-shadow: 0 0 6px rgba(0,0,0,0.1); }
+    .tag { background: #eef; color: #227; padding: 4px 8px; margin: 2px; border-radius: 4px; display: inline-block; font-size: 0.8rem; }
+  </style>
+</head>
+<body>
+  <h1>📊 FormForge Dashboard</h1>
+
+  <div class="card">
+    <h2>📈 Fatigue Trendline</h2>
+    <canvas id="fatigueChart" width="600" height="300"></canvas>
+  </div>
+
+  <div class="card">
+    <h2>🏅 Golden vs. League</h2>
+    <p><strong>Score Difference:</strong> 12.4</p>
+    <p><strong>Notes:</strong> League average is behind golden standard in core stability and knee drive.</p>
+  </div>
+
+  <div class="card">
+    <h2>🤖 Auto-Coach Feedback</h2>
+    <ul>
+      <li><strong>Posture:</strong> Maintain upright torso during sprint.</li>
+      <li><strong>Arm Drive:</strong> Pump arms straight front-to-back.</li>
+      <li><strong>Knee Lift:</strong> Lift knees higher to increase stride efficiency.</li>
+    </ul>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script>
+    const ctx = document.getElementById("fatigueChart").getContext("2d");
+    const data = {
+      labels: [1, 2, 3],
+      datasets: [{
+        label: "Fatigue Score",
+        data: [0.3, 0.5, 0.7],
+        borderColor: "red",
+        fill: false,
+        tension: 0.1
+      }]
+    };
+    const options = {
+      responsive: true,
+      scales: {
+        y: {
+          min: 0,
+          max: 1,
+          title: { display: true, text: "Fatigue Level" }
+        },
+        x: {
+          title: { display: true, text: "Time (s)" }
+        }
+      },
+      plugins: {
+        title: { display: true, text: "Fatigue Trendline" }
+      }
+    };
+    new Chart(ctx, { type: "line", data, options });
+  </script>
+</body>
+</html>

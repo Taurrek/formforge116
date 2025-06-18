@@ -1,0 +1,19 @@
+{
+  "sport": "running",
+  "position": "unspecified",
+  "joint_cluster": "full_body",
+  "data": {
+    "0": {
+      "x": 0.1,
+      "y": 0.2
+    },
+    "1": {
+      "x": 0.5,
+      "y": 0.6
+    },
+    "2": {
+      "x": 0.9,
+      "y": 0.4
+    }
+  }
+}

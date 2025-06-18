@@ -1,0 +1,34 @@
+{
+  "frames": [
+    {
+      "timestamp": 1.0,
+      "people": [
+        {
+          "id": "Athlete_1",
+          "fatigue_flags": ["hip drop"],
+          "flaw_flags": ["knee valgus"]
+        },
+        {
+          "id": "Athlete_2",
+          "fatigue_flags": [],
+          "flaw_flags": ["arm cross"]
+        }
+      ]
+    },
+    {
+      "timestamp": 2.5,
+      "people": [
+        {
+          "id": "Athlete_1",
+          "fatigue_flags": ["slouching"],
+          "flaw_flags": []
+        },
+        {
+          "id": "Athlete_2",
+          "fatigue_flags": ["foot drag"],
+          "flaw_flags": ["head tilt"]
+        }
+      ]
+    }
+  ]
+}

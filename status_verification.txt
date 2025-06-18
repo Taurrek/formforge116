@@ -1,0 +1,15 @@
+Real-Time Readiness + Fatigue Detection: Real-time pipeline being finalized; streaming integration ongoing.
+
+Cross-Sport Transfer Learning Core: Planned after fatigue detection stabilizes.
+
+Self-Service SDK + Cloud API with Session IQ: Backend API scaffolding started; documentation pending.
+
+Golden Athlete Model Library (Licensed): Licensing agreements in progress.
+
+Longitudinal Performance Graph Engine: Scheduled for implementation post-core AI features.
+
+Neural Style Imitation Engine (NEW): Research phase; planned integration after fingerprinting.
+
+Motion Climate Analyzer (NEW): External data integration planned.
+
+Adversarial Motion Detection (DeepFake Blocker) (NEW): Design phase; datasets acquisition ongoing.

@@ -1,0 +1,11 @@
+{
+  "athlete": "Athlete_1",
+  "status": "active",
+  "joints": {
+    "joint_1": 28.9,
+    "joint_2": 45.7,
+    "joint_3": 14.2
+  },
+  "fatigue": 0.36,
+  "timestamp": 1749500000.0
+}
