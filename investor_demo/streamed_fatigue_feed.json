@@ -1,0 +1,30 @@
+[
+  {
+    "athlete": "Athlete_1",
+    "timestamp": 1.00,
+    "fatigue": ["hip drop"],
+    "flaws": ["knee valgus"],
+    "wearables": { "heart_rate": 122, "accel": 0.87 }
+  },
+  {
+    "athlete": "Athlete_2",
+    "timestamp": 1.00,
+    "fatigue": [],
+    "flaws": ["arm cross"],
+    "wearables": { "heart_rate": 115, "accel": 0.92 }
+  },
+  {
+    "athlete": "Athlete_1",
+    "timestamp": 2.50,
+    "fatigue": ["slouching"],
+    "flaws": [],
+    "wearables": { "heart_rate": 130, "accel": 1.12 }
+  },
+  {
+    "athlete": "Athlete_2",
+    "timestamp": 2.50,
+    "fatigue": ["foot drag"],
+    "flaws": ["head tilt"],
+    "wearables": { "heart_rate": 124, "accel": 1.08 }
+  }
+]

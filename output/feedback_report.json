@@ -1,0 +1,6456 @@
+[
+  {
+    "frame": 0,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.03
+      },
+      {
+        "joint": 1,
+        "error": 2.2052
+      },
+      {
+        "joint": 2,
+        "error": 3.0231
+      },
+      {
+        "joint": 3,
+        "error": 0.9506
+      },
+      {
+        "joint": 4,
+        "error": 1.9638
+      },
+      {
+        "joint": 5,
+        "error": 1.2981
+      },
+      {
+        "joint": 6,
+        "error": 2.0482
+      },
+      {
+        "joint": 7,
+        "error": 1.6397
+      },
+      {
+        "joint": 8,
+        "error": 1.5723
+      },
+      {
+        "joint": 9,
+        "error": 2.5244
+      },
+      {
+        "joint": 10,
+        "error": 0.9288
+      },
+      {
+        "joint": 11,
+        "error": 2.7389
+      },
+      {
+        "joint": 12,
+        "error": 2.1461
+      },
+      {
+        "joint": 13,
+        "error": 2.8239
+      },
+      {
+        "joint": 14,
+        "error": 1.0638
+      },
+      {
+        "joint": 15,
+        "error": 1.8919
+      },
+      {
+        "joint": 16,
+        "error": 1.4474
+      },
+      {
+        "joint": 17,
+        "error": 1.2598
+      },
+      {
+        "joint": 18,
+        "error": 1.2646
+      },
+      {
+        "joint": 19,
+        "error": 2.6719
+      },
+      {
+        "joint": 20,
+        "error": 1.7761
+      },
+      {
+        "joint": 21,
+        "error": 2.1146
+      },
+      {
+        "joint": 22,
+        "error": 1.2959
+      },
+      {
+        "joint": 23,
+        "error": 0.4863
+      },
+      {
+        "joint": 24,
+        "error": 2.6382
+      }
+    ]
+  },
+  {
+    "frame": 1,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.9502
+      },
+      {
+        "joint": 1,
+        "error": 2.7728
+      },
+      {
+        "joint": 2,
+        "error": 1.6169
+      },
+      {
+        "joint": 3,
+        "error": 2.965
+      },
+      {
+        "joint": 4,
+        "error": 1.1525
+      },
+      {
+        "joint": 5,
+        "error": 1.4724
+      },
+      {
+        "joint": 6,
+        "error": 1.811
+      },
+      {
+        "joint": 7,
+        "error": 2.1066
+      },
+      {
+        "joint": 8,
+        "error": 3.8501
+      },
+      {
+        "joint": 9,
+        "error": 1.5139
+      },
+      {
+        "joint": 10,
+        "error": 2.9306
+      },
+      {
+        "joint": 11,
+        "error": 1.5166
+      },
+      {
+        "joint": 12,
+        "error": 1.2171
+      },
+      {
+        "joint": 13,
+        "error": 2.7879
+      },
+      {
+        "joint": 14,
+        "error": 1.3475
+      },
+      {
+        "joint": 15,
+        "error": 1.2953
+      },
+      {
+        "joint": 16,
+        "error": 2.2699
+      },
+      {
+        "joint": 17,
+        "error": 1.8006
+      },
+      {
+        "joint": 18,
+        "error": 3.6284
+      },
+      {
+        "joint": 19,
+        "error": 0.5342
+      },
+      {
+        "joint": 20,
+        "error": 2.7333
+      },
+      {
+        "joint": 21,
+        "error": 1.5729
+      },
+      {
+        "joint": 22,
+        "error": 0.633
+      },
+      {
+        "joint": 23,
+        "error": 1.3253
+      },
+      {
+        "joint": 24,
+        "error": 1.649
+      }
+    ]
+  },
+  {
+    "frame": 2,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.4316
+      },
+      {
+        "joint": 1,
+        "error": 2.7712
+      },
+      {
+        "joint": 2,
+        "error": 3.3507
+      },
+      {
+        "joint": 3,
+        "error": 0.5145
+      },
+      {
+        "joint": 4,
+        "error": 0.93
+      },
+      {
+        "joint": 5,
+        "error": 3.0341
+      },
+      {
+        "joint": 6,
+        "error": 2.4823
+      },
+      {
+        "joint": 7,
+        "error": 0.7491
+      },
+      {
+        "joint": 8,
+        "error": 1.3362
+      },
+      {
+        "joint": 9,
+        "error": 2.1631
+      },
+      {
+        "joint": 10,
+        "error": 0.4661
+      },
+      {
+        "joint": 11,
+        "error": 2.4555
+      },
+      {
+        "joint": 12,
+        "error": 3.1983
+      },
+      {
+        "joint": 13,
+        "error": 1.9871
+      },
+      {
+        "joint": 14,
+        "error": 0.8475
+      },
+      {
+        "joint": 15,
+        "error": 1.0908
+      },
+      {
+        "joint": 16,
+        "error": 1.8257
+      },
+      {
+        "joint": 17,
+        "error": 1.6832
+      },
+      {
+        "joint": 18,
+        "error": 2.1416
+      },
+      {
+        "joint": 19,
+        "error": 1.5992
+      },
+      {
+        "joint": 20,
+        "error": 1.9965
+      },
+      {
+        "joint": 21,
+        "error": 3.1317
+      },
+      {
+        "joint": 22,
+        "error": 1.0684
+      },
+      {
+        "joint": 23,
+        "error": 1.4024
+      },
+      {
+        "joint": 24,
+        "error": 1.5658
+      }
+    ]
+  },
+  {
+    "frame": 3,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 0.9997
+      },
+      {
+        "joint": 1,
+        "error": 2.0987
+      },
+      {
+        "joint": 2,
+        "error": 0.6391
+      },
+      {
+        "joint": 3,
+        "error": 0.4828
+      },
+      {
+        "joint": 4,
+        "error": 1.0148
+      },
+      {
+        "joint": 5,
+        "error": 2.0776
+      },
+      {
+        "joint": 6,
+        "error": 2.3407
+      },
+      {
+        "joint": 7,
+        "error": 1.8792
+      },
+      {
+        "joint": 8,
+        "error": 0.268
+      },
+      {
+        "joint": 9,
+        "error": 1.1906
+      },
+      {
+        "joint": 10,
+        "error": 0.9065
+      },
+      {
+        "joint": 11,
+        "error": 2.7423
+      },
+      {
+        "joint": 12,
+        "error": 0.9774
+      },
+      {
+        "joint": 13,
+        "error": 1.1057
+      },
+      {
+        "joint": 14,
+        "error": 1.3234
+      },
+      {
+        "joint": 15,
+        "error": 0.4359
+      },
+      {
+        "joint": 16,
+        "error": 0.4547
+      },
+      {
+        "joint": 17,
+        "error": 1.2094
+      },
+      {
+        "joint": 18,
+        "error": 2.6643
+      },
+      {
+        "joint": 19,
+        "error": 0.9135
+      },
+      {
+        "joint": 20,
+        "error": 1.8263
+      },
+      {
+        "joint": 21,
+        "error": 2.0637
+      },
+      {
+        "joint": 22,
+        "error": 2.2781
+      },
+      {
+        "joint": 23,
+        "error": 3.1023
+      },
+      {
+        "joint": 24,
+        "error": 1.0327
+      }
+    ]
+  },
+  {
+    "frame": 4,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 0.4441
+      },
+      {
+        "joint": 1,
+        "error": 2.3576
+      },
+      {
+        "joint": 2,
+        "error": 1.257
+      },
+      {
+        "joint": 3,
+        "error": 2.6986
+      },
+      {
+        "joint": 4,
+        "error": 2.3044
+      },
+      {
+        "joint": 5,
+        "error": 3.152
+      },
+      {
+        "joint": 6,
+        "error": 1.2392
+      },
+      {
+        "joint": 7,
+        "error": 1.5204
+      },
+      {
+        "joint": 8,
+        "error": 3.238
+      },
+      {
+        "joint": 9,
+        "error": 2.3731
+      },
+      {
+        "joint": 10,
+        "error": 0.8572
+      },
+      {
+        "joint": 11,
+        "error": 2.4254
+      },
+      {
+        "joint": 12,
+        "error": 0.2171
+      },
+      {
+        "joint": 13,
+        "error": 1.1857
+      },
+      {
+        "joint": 14,
+        "error": 1.1995
+      },
+      {
+        "joint": 15,
+        "error": 0.7276
+      },
+      {
+        "joint": 16,
+        "error": 1.341
+      },
+      {
+        "joint": 17,
+        "error": 1.0948
+      },
+      {
+        "joint": 18,
+        "error": 2.879
+      },
+      {
+        "joint": 19,
+        "error": 2.6928
+      },
+      {
+        "joint": 20,
+        "error": 2.3071
+      },
+      {
+        "joint": 21,
+        "error": 1.1735
+      },
+      {
+        "joint": 22,
+        "error": 1.5668
+      },
+      {
+        "joint": 23,
+        "error": 2.9842
+      },
+      {
+        "joint": 24,
+        "error": 1.1837
+      }
+    ]
+  },
+  {
+    "frame": 5,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.8828
+      },
+      {
+        "joint": 1,
+        "error": 3.0153
+      },
+      {
+        "joint": 2,
+        "error": 3.1732
+      },
+      {
+        "joint": 3,
+        "error": 2.4486
+      },
+      {
+        "joint": 4,
+        "error": 2.1772
+      },
+      {
+        "joint": 5,
+        "error": 1.104
+      },
+      {
+        "joint": 6,
+        "error": 2.282
+      },
+      {
+        "joint": 7,
+        "error": 1.6045
+      },
+      {
+        "joint": 8,
+        "error": 2.2399
+      },
+      {
+        "joint": 9,
+        "error": 3.0402
+      },
+      {
+        "joint": 10,
+        "error": 0.6779
+      },
+      {
+        "joint": 11,
+        "error": 0.4533
+      },
+      {
+        "joint": 12,
+        "error": 1.553
+      },
+      {
+        "joint": 13,
+        "error": 1.1091
+      },
+      {
+        "joint": 14,
+        "error": 1.4822
+      },
+      {
+        "joint": 15,
+        "error": 1.2073
+      },
+      {
+        "joint": 16,
+        "error": 1.8455
+      },
+      {
+        "joint": 17,
+        "error": 2.4823
+      },
+      {
+        "joint": 18,
+        "error": 2.2596
+      },
+      {
+        "joint": 19,
+        "error": 1.6432
+      },
+      {
+        "joint": 20,
+        "error": 0.9952
+      },
+      {
+        "joint": 21,
+        "error": 3.1907
+      },
+      {
+        "joint": 22,
+        "error": 1.8829
+      },
+      {
+        "joint": 23,
+        "error": 2.7484
+      },
+      {
+        "joint": 24,
+        "error": 1.8543
+      }
+    ]
+  },
+  {
+    "frame": 6,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 2.3945
+      },
+      {
+        "joint": 1,
+        "error": 1.9596
+      },
+      {
+        "joint": 2,
+        "error": 1.4056
+      },
+      {
+        "joint": 3,
+        "error": 2.2316
+      },
+      {
+        "joint": 4,
+        "error": 1.5914
+      },
+      {
+        "joint": 5,
+        "error": 1.8884
+      },
+      {
+        "joint": 6,
+        "error": 1.0355
+      },
+      {
+        "joint": 7,
+        "error": 1.2765
+      },
+      {
+        "joint": 8,
+        "error": 1.5693
+      },
+      {
+        "joint": 9,
+        "error": 2.2565
+      },
+      {
+        "joint": 10,
+        "error": 2.245
+      },
+      {
+        "joint": 11,
+        "error": 1.5749
+      },
+      {
+        "joint": 12,
+        "error": 4.0814
+      },
+      {
+        "joint": 13,
+        "error": 2.5658
+      },
+      {
+        "joint": 14,
+        "error": 2.4765
+      },
+      {
+        "joint": 15,
+        "error": 2.6468
+      },
+      {
+        "joint": 16,
+        "error": 1.4263
+      },
+      {
+        "joint": 17,
+        "error": 1.8316
+      },
+      {
+        "joint": 18,
+        "error": 0.6673
+      },
+      {
+        "joint": 19,
+        "error": 2.0942
+      },
+      {
+        "joint": 20,
+        "error": 1.7998
+      },
+      {
+        "joint": 21,
+        "error": 0.8793
+      },
+      {
+        "joint": 22,
+        "error": 0.9037
+      },
+      {
+        "joint": 23,
+        "error": 1.6119
+      },
+      {
+        "joint": 24,
+        "error": 2.6387
+      }
+    ]
+  },
+  {
+    "frame": 7,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.8582
+      },
+      {
+        "joint": 1,
+        "error": 2.1821
+      },
+      {
+        "joint": 2,
+        "error": 0.8242
+      },
+      {
+        "joint": 3,
+        "error": 1.5694
+      },
+      {
+        "joint": 4,
+        "error": 1.9139
+      },
+      {
+        "joint": 5,
+        "error": 0.3712
+      },
+      {
+        "joint": 6,
+        "error": 1.6308
+      },
+      {
+        "joint": 7,
+        "error": 2.1513
+      },
+      {
+        "joint": 8,
+        "error": 2.1908
+      },
+      {
+        "joint": 9,
+        "error": 1.785
+      },
+      {
+        "joint": 10,
+        "error": 0.4225
+      },
+      {
+        "joint": 11,
+        "error": 1.7644
+      },
+      {
+        "joint": 12,
+        "error": 2.9527
+      },
+      {
+        "joint": 13,
+        "error": 1.584
+      },
+      {
+        "joint": 14,
+        "error": 2.2339
+      },
+      {
+        "joint": 15,
+        "error": 2.0096
+      },
+      {
+        "joint": 16,
+        "error": 1.4461
+      },
+      {
+        "joint": 17,
+        "error": 0.9855
+      },
+      {
+        "joint": 18,
+        "error": 2.7043
+      },
+      {
+        "joint": 19,
+        "error": 0.9921
+      },
+      {
+        "joint": 20,
+        "error": 1.5345
+      },
+      {
+        "joint": 21,
+        "error": 2.2517
+      },
+      {
+        "joint": 22,
+        "error": 1.0763
+      },
+      {
+        "joint": 23,
+        "error": 2.1062
+      },
+      {
+        "joint": 24,
+        "error": 2.6369
+      }
+    ]
+  },
+  {
+    "frame": 8,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.4429
+      },
+      {
+        "joint": 1,
+        "error": 2.1106
+      },
+      {
+        "joint": 2,
+        "error": 1.059
+      },
+      {
+        "joint": 3,
+        "error": 1.9973
+      },
+      {
+        "joint": 4,
+        "error": 1.4182
+      },
+      {
+        "joint": 5,
+        "error": 2.9645
+      },
+      {
+        "joint": 6,
+        "error": 2.564
+      },
+      {
+        "joint": 7,
+        "error": 1.0029
+      },
+      {
+        "joint": 8,
+        "error": 1.8568
+      },
+      {
+        "joint": 9,
+        "error": 2.439
+      },
+      {
+        "joint": 10,
+        "error": 2.5436
+      },
+      {
+        "joint": 11,
+        "error": 2.1938
+      },
+      {
+        "joint": 12,
+        "error": 0.3843
+      },
+      {
+        "joint": 13,
+        "error": 1.7998
+      },
+      {
+        "joint": 14,
+        "error": 1.8404
+      },
+      {
+        "joint": 15,
+        "error": 1.2892
+      },
+      {
+        "joint": 16,
+        "error": 1.9812
+      },
+      {
+        "joint": 17,
+        "error": 0.8064
+      },
+      {
+        "joint": 18,
+        "error": 2.7198
+      },
+      {
+        "joint": 19,
+        "error": 1.8546
+      },
+      {
+        "joint": 20,
+        "error": 1.9329
+      },
+      {
+        "joint": 21,
+        "error": 1.4044
+      },
+      {
+        "joint": 22,
+        "error": 2.2064
+      },
+      {
+        "joint": 23,
+        "error": 3.5504
+      },
+      {
+        "joint": 24,
+        "error": 1.2026
+      }
+    ]
+  },
+  {
+    "frame": 9,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 2.4041
+      },
+      {
+        "joint": 1,
+        "error": 2.6918
+      },
+      {
+        "joint": 2,
+        "error": 1.6725
+      },
+      {
+        "joint": 3,
+        "error": 1.5597
+      },
+      {
+        "joint": 4,
+        "error": 1.2076
+      },
+      {
+        "joint": 5,
+        "error": 2.4289
+      },
+      {
+        "joint": 6,
+        "error": 2.1108
+      },
+      {
+        "joint": 7,
+        "error": 0.7152
+      },
+      {
+        "joint": 8,
+        "error": 1.8976
+      },
+      {
+        "joint": 9,
+        "error": 1.275
+      },
+      {
+        "joint": 10,
+        "error": 1.1106
+      },
+      {
+        "joint": 11,
+        "error": 1.7039
+      },
+      {
+        "joint": 12,
+        "error": 0.8951
+      },
+      {
+        "joint": 13,
+        "error": 2.869
+      },
+      {
+        "joint": 14,
+        "error": 1.6609
+      },
+      {
+        "joint": 15,
+        "error": 1.212
+      },
+      {
+        "joint": 16,
+        "error": 1.7312
+      },
+      {
+        "joint": 17,
+        "error": 1.3141
+      },
+      {
+        "joint": 18,
+        "error": 1.5998
+      },
+      {
+        "joint": 19,
+        "error": 2.1769
+      },
+      {
+        "joint": 20,
+        "error": 3.2085
+      },
+      {
+        "joint": 21,
+        "error": 0.7142
+      },
+      {
+        "joint": 22,
+        "error": 0.6692
+      },
+      {
+        "joint": 23,
+        "error": 1.5239
+      },
+      {
+        "joint": 24,
+        "error": 2.0872
+      }
+    ]
+  },
+  {
+    "frame": 10,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 3.2906
+      },
+      {
+        "joint": 1,
+        "error": 1.0306
+      },
+      {
+        "joint": 2,
+        "error": 1.4793
+      },
+      {
+        "joint": 3,
+        "error": 2.5288
+      },
+      {
+        "joint": 4,
+        "error": 1.4106
+      },
+      {
+        "joint": 5,
+        "error": 0.9943
+      },
+      {
+        "joint": 6,
+        "error": 2.3519
+      },
+      {
+        "joint": 7,
+        "error": 1.5822
+      },
+      {
+        "joint": 8,
+        "error": 1.864
+      },
+      {
+        "joint": 9,
+        "error": 1.302
+      },
+      {
+        "joint": 10,
+        "error": 1.4323
+      },
+      {
+        "joint": 11,
+        "error": 2.4465
+      },
+      {
+        "joint": 12,
+        "error": 0.9319
+      },
+      {
+        "joint": 13,
+        "error": 2.8549
+      },
+      {
+        "joint": 14,
+        "error": 1.4564
+      },
+      {
+        "joint": 15,
+        "error": 1.6334
+      },
+      {
+        "joint": 16,
+        "error": 3.6979
+      },
+      {
+        "joint": 17,
+        "error": 1.3539
+      },
+      {
+        "joint": 18,
+        "error": 2.1148
+      },
+      {
+        "joint": 19,
+        "error": 1.6388
+      },
+      {
+        "joint": 20,
+        "error": 1.1366
+      },
+      {
+        "joint": 21,
+        "error": 1.2296
+      },
+      {
+        "joint": 22,
+        "error": 1.2737
+      },
+      {
+        "joint": 23,
+        "error": 2.0285
+      },
+      {
+        "joint": 24,
+        "error": 2.248
+      }
+    ]
+  },
+  {
+    "frame": 11,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.2287
+      },
+      {
+        "joint": 1,
+        "error": 0.5842
+      },
+      {
+        "joint": 2,
+        "error": 1.0296
+      },
+      {
+        "joint": 3,
+        "error": 2.0266
+      },
+      {
+        "joint": 4,
+        "error": 0.4654
+      },
+      {
+        "joint": 5,
+        "error": 2.4472
+      },
+      {
+        "joint": 6,
+        "error": 0.6479
+      },
+      {
+        "joint": 7,
+        "error": 2.2435
+      },
+      {
+        "joint": 8,
+        "error": 1.7534
+      },
+      {
+        "joint": 9,
+        "error": 1.5119
+      },
+      {
+        "joint": 10,
+        "error": 2.0564
+      },
+      {
+        "joint": 11,
+        "error": 1.4968
+      },
+      {
+        "joint": 12,
+        "error": 2.1714
+      },
+      {
+        "joint": 13,
+        "error": 2.4617
+      },
+      {
+        "joint": 14,
+        "error": 2.1188
+      },
+      {
+        "joint": 15,
+        "error": 1.2259
+      },
+      {
+        "joint": 16,
+        "error": 1.2724
+      },
+      {
+        "joint": 17,
+        "error": 1.8454
+      },
+      {
+        "joint": 18,
+        "error": 2.8795
+      },
+      {
+        "joint": 20,
+        "error": 2.1977
+      },
+      {
+        "joint": 21,
+        "error": 0.945
+      },
+      {
+        "joint": 22,
+        "error": 3.0174
+      },
+      {
+        "joint": 23,
+        "error": 2.0917
+      },
+      {
+        "joint": 24,
+        "error": 0.9112
+      }
+    ]
+  },
+  {
+    "frame": 12,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.4138
+      },
+      {
+        "joint": 1,
+        "error": 1.0229
+      },
+      {
+        "joint": 2,
+        "error": 1.5088
+      },
+      {
+        "joint": 3,
+        "error": 0.7405
+      },
+      {
+        "joint": 4,
+        "error": 0.5135
+      },
+      {
+        "joint": 5,
+        "error": 0.8655
+      },
+      {
+        "joint": 6,
+        "error": 1.0172
+      },
+      {
+        "joint": 7,
+        "error": 0.6979
+      },
+      {
+        "joint": 8,
+        "error": 1.5337
+      },
+      {
+        "joint": 9,
+        "error": 0.4975
+      },
+      {
+        "joint": 10,
+        "error": 2.526
+      },
+      {
+        "joint": 11,
+        "error": 2.1964
+      },
+      {
+        "joint": 12,
+        "error": 2.871
+      },
+      {
+        "joint": 13,
+        "error": 1.6364
+      },
+      {
+        "joint": 14,
+        "error": 2.717
+      },
+      {
+        "joint": 15,
+        "error": 3.5349
+      },
+      {
+        "joint": 16,
+        "error": 1.323
+      },
+      {
+        "joint": 17,
+        "error": 1.9476
+      },
+      {
+        "joint": 18,
+        "error": 0.4813
+      },
+      {
+        "joint": 19,
+        "error": 2.5717
+      },
+      {
+        "joint": 20,
+        "error": 2.3986
+      },
+      {
+        "joint": 21,
+        "error": 0.3597
+      },
+      {
+        "joint": 22,
+        "error": 3.062
+      },
+      {
+        "joint": 23,
+        "error": 1.5727
+      },
+      {
+        "joint": 24,
+        "error": 1.1768
+      }
+    ]
+  },
+  {
+    "frame": 13,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.673
+      },
+      {
+        "joint": 1,
+        "error": 0.7412
+      },
+      {
+        "joint": 2,
+        "error": 0.37
+      },
+      {
+        "joint": 3,
+        "error": 1.4786
+      },
+      {
+        "joint": 4,
+        "error": 2.8525
+      },
+      {
+        "joint": 5,
+        "error": 3.0841
+      },
+      {
+        "joint": 6,
+        "error": 1.3372
+      },
+      {
+        "joint": 7,
+        "error": 2.9427
+      },
+      {
+        "joint": 8,
+        "error": 0.4013
+      },
+      {
+        "joint": 9,
+        "error": 1.0394
+      },
+      {
+        "joint": 10,
+        "error": 1.2997
+      },
+      {
+        "joint": 11,
+        "error": 1.6129
+      },
+      {
+        "joint": 12,
+        "error": 0.5296
+      },
+      {
+        "joint": 13,
+        "error": 2.8052
+      },
+      {
+        "joint": 14,
+        "error": 2.0011
+      },
+      {
+        "joint": 15,
+        "error": 1.6023
+      },
+      {
+        "joint": 16,
+        "error": 0.7033
+      },
+      {
+        "joint": 17,
+        "error": 1.7208
+      },
+      {
+        "joint": 18,
+        "error": 1.5106
+      },
+      {
+        "joint": 19,
+        "error": 0.3138
+      },
+      {
+        "joint": 20,
+        "error": 2.4183
+      },
+      {
+        "joint": 21,
+        "error": 3.3626
+      },
+      {
+        "joint": 22,
+        "error": 2.5136
+      },
+      {
+        "joint": 23,
+        "error": 2.4977
+      },
+      {
+        "joint": 24,
+        "error": 2.5559
+      }
+    ]
+  },
+  {
+    "frame": 14,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.5249
+      },
+      {
+        "joint": 1,
+        "error": 1.6604
+      },
+      {
+        "joint": 2,
+        "error": 2.5143
+      },
+      {
+        "joint": 3,
+        "error": 1.0799
+      },
+      {
+        "joint": 4,
+        "error": 3.0386
+      },
+      {
+        "joint": 5,
+        "error": 2.5387
+      },
+      {
+        "joint": 6,
+        "error": 0.2252
+      },
+      {
+        "joint": 7,
+        "error": 2.5898
+      },
+      {
+        "joint": 8,
+        "error": 0.3742
+      },
+      {
+        "joint": 9,
+        "error": 1.6245
+      },
+      {
+        "joint": 10,
+        "error": 0.7476
+      },
+      {
+        "joint": 11,
+        "error": 2.0816
+      },
+      {
+        "joint": 12,
+        "error": 1.1157
+      },
+      {
+        "joint": 13,
+        "error": 1.1089
+      },
+      {
+        "joint": 14,
+        "error": 2.4191
+      },
+      {
+        "joint": 15,
+        "error": 1.6091
+      },
+      {
+        "joint": 16,
+        "error": 1.645
+      },
+      {
+        "joint": 17,
+        "error": 1.3623
+      },
+      {
+        "joint": 18,
+        "error": 0.6467
+      },
+      {
+        "joint": 19,
+        "error": 2.9117
+      },
+      {
+        "joint": 20,
+        "error": 0.7819
+      },
+      {
+        "joint": 21,
+        "error": 0.203
+      },
+      {
+        "joint": 22,
+        "error": 1.0416
+      },
+      {
+        "joint": 23,
+        "error": 1.6076
+      },
+      {
+        "joint": 24,
+        "error": 0.2238
+      }
+    ]
+  },
+  {
+    "frame": 15,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.5055
+      },
+      {
+        "joint": 1,
+        "error": 1.8537
+      },
+      {
+        "joint": 2,
+        "error": 1.6221
+      },
+      {
+        "joint": 3,
+        "error": 1.2036
+      },
+      {
+        "joint": 4,
+        "error": 0.2356
+      },
+      {
+        "joint": 5,
+        "error": 1.2921
+      },
+      {
+        "joint": 6,
+        "error": 2.9995
+      },
+      {
+        "joint": 7,
+        "error": 2.5895
+      },
+      {
+        "joint": 8,
+        "error": 1.1625
+      },
+      {
+        "joint": 9,
+        "error": 0.3643
+      },
+      {
+        "joint": 10,
+        "error": 1.2617
+      },
+      {
+        "joint": 11,
+        "error": 2.0591
+      },
+      {
+        "joint": 12,
+        "error": 2.0206
+      },
+      {
+        "joint": 13,
+        "error": 3.3062
+      },
+      {
+        "joint": 14,
+        "error": 1.3265
+      },
+      {
+        "joint": 15,
+        "error": 0.2073
+      },
+      {
+        "joint": 16,
+        "error": 0.6984
+      },
+      {
+        "joint": 17,
+        "error": 0.8543
+      },
+      {
+        "joint": 18,
+        "error": 2.4508
+      },
+      {
+        "joint": 19,
+        "error": 2.0242
+      },
+      {
+        "joint": 20,
+        "error": 0.446
+      },
+      {
+        "joint": 21,
+        "error": 2.8341
+      },
+      {
+        "joint": 22,
+        "error": 2.2226
+      },
+      {
+        "joint": 23,
+        "error": 1.3889
+      },
+      {
+        "joint": 24,
+        "error": 0.9699
+      }
+    ]
+  },
+  {
+    "frame": 16,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.809
+      },
+      {
+        "joint": 1,
+        "error": 1.5652
+      },
+      {
+        "joint": 2,
+        "error": 0.7013
+      },
+      {
+        "joint": 3,
+        "error": 2.2263
+      },
+      {
+        "joint": 4,
+        "error": 3.4059
+      },
+      {
+        "joint": 5,
+        "error": 4.4798
+      },
+      {
+        "joint": 6,
+        "error": 1.1064
+      },
+      {
+        "joint": 7,
+        "error": 1.585
+      },
+      {
+        "joint": 8,
+        "error": 3.0283
+      },
+      {
+        "joint": 9,
+        "error": 0.5185
+      },
+      {
+        "joint": 10,
+        "error": 0.4416
+      },
+      {
+        "joint": 11,
+        "error": 1.4276
+      },
+      {
+        "joint": 12,
+        "error": 1.5271
+      },
+      {
+        "joint": 13,
+        "error": 3.0745
+      },
+      {
+        "joint": 14,
+        "error": 0.5133
+      },
+      {
+        "joint": 15,
+        "error": 2.1137
+      },
+      {
+        "joint": 16,
+        "error": 1.5001
+      },
+      {
+        "joint": 17,
+        "error": 2.4705
+      },
+      {
+        "joint": 18,
+        "error": 0.9116
+      },
+      {
+        "joint": 19,
+        "error": 1.246
+      },
+      {
+        "joint": 20,
+        "error": 1.6714
+      },
+      {
+        "joint": 21,
+        "error": 1.336
+      },
+      {
+        "joint": 22,
+        "error": 2.2257
+      },
+      {
+        "joint": 23,
+        "error": 2.4896
+      },
+      {
+        "joint": 24,
+        "error": 0.3605
+      }
+    ]
+  },
+  {
+    "frame": 17,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 0.8194
+      },
+      {
+        "joint": 1,
+        "error": 0.7016
+      },
+      {
+        "joint": 2,
+        "error": 1.1841
+      },
+      {
+        "joint": 3,
+        "error": 1.4064
+      },
+      {
+        "joint": 4,
+        "error": 0.434
+      },
+      {
+        "joint": 5,
+        "error": 3.4056
+      },
+      {
+        "joint": 6,
+        "error": 2.1099
+      },
+      {
+        "joint": 7,
+        "error": 2.201
+      },
+      {
+        "joint": 8,
+        "error": 1.8484
+      },
+      {
+        "joint": 9,
+        "error": 1.5166
+      },
+      {
+        "joint": 10,
+        "error": 0.4306
+      },
+      {
+        "joint": 11,
+        "error": 1.948
+      },
+      {
+        "joint": 12,
+        "error": 2.1553
+      },
+      {
+        "joint": 13,
+        "error": 2.6316
+      },
+      {
+        "joint": 14,
+        "error": 1.7229
+      },
+      {
+        "joint": 15,
+        "error": 0.6922
+      },
+      {
+        "joint": 16,
+        "error": 1.6171
+      },
+      {
+        "joint": 17,
+        "error": 2.3127
+      },
+      {
+        "joint": 18,
+        "error": 0.2217
+      },
+      {
+        "joint": 19,
+        "error": 2.597
+      },
+      {
+        "joint": 20,
+        "error": 1.3425
+      },
+      {
+        "joint": 21,
+        "error": 2.3982
+      },
+      {
+        "joint": 22,
+        "error": 0.3014
+      },
+      {
+        "joint": 23,
+        "error": 2.4095
+      },
+      {
+        "joint": 24,
+        "error": 2.641
+      }
+    ]
+  },
+  {
+    "frame": 18,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 0.9292
+      },
+      {
+        "joint": 1,
+        "error": 2.5148
+      },
+      {
+        "joint": 2,
+        "error": 2.3571
+      },
+      {
+        "joint": 3,
+        "error": 1.2165
+      },
+      {
+        "joint": 4,
+        "error": 2.438
+      },
+      {
+        "joint": 5,
+        "error": 1.7589
+      },
+      {
+        "joint": 6,
+        "error": 2.0541
+      },
+      {
+        "joint": 7,
+        "error": 0.8905
+      },
+      {
+        "joint": 8,
+        "error": 1.3791
+      },
+      {
+        "joint": 9,
+        "error": 0.7596
+      },
+      {
+        "joint": 10,
+        "error": 3.0391
+      },
+      {
+        "joint": 11,
+        "error": 1.8133
+      },
+      {
+        "joint": 12,
+        "error": 2.3582
+      },
+      {
+        "joint": 13,
+        "error": 2.1894
+      },
+      {
+        "joint": 14,
+        "error": 1.3144
+      },
+      {
+        "joint": 15,
+        "error": 2.8492
+      },
+      {
+        "joint": 16,
+        "error": 2.5518
+      },
+      {
+        "joint": 17,
+        "error": 1.3176
+      },
+      {
+        "joint": 18,
+        "error": 2.0431
+      },
+      {
+        "joint": 19,
+        "error": 1.7162
+      },
+      {
+        "joint": 20,
+        "error": 1.2749
+      },
+      {
+        "joint": 21,
+        "error": 1.6214
+      },
+      {
+        "joint": 22,
+        "error": 1.1904
+      },
+      {
+        "joint": 23,
+        "error": 2.0866
+      },
+      {
+        "joint": 24,
+        "error": 2.7092
+      }
+    ]
+  },
+  {
+    "frame": 19,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.0574
+      },
+      {
+        "joint": 1,
+        "error": 1.9974
+      },
+      {
+        "joint": 2,
+        "error": 0.9747
+      },
+      {
+        "joint": 3,
+        "error": 1.413
+      },
+      {
+        "joint": 4,
+        "error": 2.9384
+      },
+      {
+        "joint": 5,
+        "error": 2.9562
+      },
+      {
+        "joint": 6,
+        "error": 1.153
+      },
+      {
+        "joint": 7,
+        "error": 1.9687
+      },
+      {
+        "joint": 8,
+        "error": 2.432
+      },
+      {
+        "joint": 9,
+        "error": 1.6724
+      },
+      {
+        "joint": 10,
+        "error": 1.6615
+      },
+      {
+        "joint": 11,
+        "error": 1.2785
+      },
+      {
+        "joint": 12,
+        "error": 1.716
+      },
+      {
+        "joint": 13,
+        "error": 1.7306
+      },
+      {
+        "joint": 14,
+        "error": 2.7361
+      },
+      {
+        "joint": 15,
+        "error": 3.7964
+      },
+      {
+        "joint": 16,
+        "error": 2.5434
+      },
+      {
+        "joint": 17,
+        "error": 1.323
+      },
+      {
+        "joint": 18,
+        "error": 1.9773
+      },
+      {
+        "joint": 19,
+        "error": 1.7187
+      },
+      {
+        "joint": 20,
+        "error": 1.4434
+      },
+      {
+        "joint": 21,
+        "error": 1.5788
+      },
+      {
+        "joint": 22,
+        "error": 1.4714
+      },
+      {
+        "joint": 23,
+        "error": 3.0293
+      },
+      {
+        "joint": 24,
+        "error": 2.4692
+      }
+    ]
+  },
+  {
+    "frame": 20,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.3802
+      },
+      {
+        "joint": 1,
+        "error": 1.8764
+      },
+      {
+        "joint": 2,
+        "error": 1.2444
+      },
+      {
+        "joint": 3,
+        "error": 1.893
+      },
+      {
+        "joint": 4,
+        "error": 1.193
+      },
+      {
+        "joint": 5,
+        "error": 1.8129
+      },
+      {
+        "joint": 6,
+        "error": 0.7795
+      },
+      {
+        "joint": 7,
+        "error": 1.2119
+      },
+      {
+        "joint": 8,
+        "error": 1.9617
+      },
+      {
+        "joint": 9,
+        "error": 0.477
+      },
+      {
+        "joint": 10,
+        "error": 2.3492
+      },
+      {
+        "joint": 11,
+        "error": 1.1038
+      },
+      {
+        "joint": 12,
+        "error": 2.737
+      },
+      {
+        "joint": 13,
+        "error": 1.1567
+      },
+      {
+        "joint": 14,
+        "error": 2.9666
+      },
+      {
+        "joint": 15,
+        "error": 0.6137
+      },
+      {
+        "joint": 16,
+        "error": 2.2816
+      },
+      {
+        "joint": 17,
+        "error": 3.9213
+      },
+      {
+        "joint": 18,
+        "error": 0.4096
+      },
+      {
+        "joint": 19,
+        "error": 1.2122
+      },
+      {
+        "joint": 20,
+        "error": 3.1008
+      },
+      {
+        "joint": 21,
+        "error": 4.5181
+      },
+      {
+        "joint": 22,
+        "error": 1.6196
+      },
+      {
+        "joint": 23,
+        "error": 1.0428
+      },
+      {
+        "joint": 24,
+        "error": 1.5717
+      }
+    ]
+  },
+  {
+    "frame": 21,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.4221
+      },
+      {
+        "joint": 1,
+        "error": 2.9936
+      },
+      {
+        "joint": 2,
+        "error": 3.4009
+      },
+      {
+        "joint": 3,
+        "error": 1.4866
+      },
+      {
+        "joint": 4,
+        "error": 1.3135
+      },
+      {
+        "joint": 5,
+        "error": 1.464
+      },
+      {
+        "joint": 6,
+        "error": 2.5969
+      },
+      {
+        "joint": 7,
+        "error": 0.6985
+      },
+      {
+        "joint": 8,
+        "error": 1.2025
+      },
+      {
+        "joint": 9,
+        "error": 2.4238
+      },
+      {
+        "joint": 10,
+        "error": 1.1991
+      },
+      {
+        "joint": 11,
+        "error": 1.5027
+      },
+      {
+        "joint": 12,
+        "error": 2.7929
+      },
+      {
+        "joint": 13,
+        "error": 2.1728
+      },
+      {
+        "joint": 14,
+        "error": 0.5703
+      },
+      {
+        "joint": 15,
+        "error": 0.8234
+      },
+      {
+        "joint": 16,
+        "error": 1.317
+      },
+      {
+        "joint": 17,
+        "error": 0.6237
+      },
+      {
+        "joint": 18,
+        "error": 2.199
+      },
+      {
+        "joint": 19,
+        "error": 3.1611
+      },
+      {
+        "joint": 20,
+        "error": 2.6387
+      },
+      {
+        "joint": 21,
+        "error": 0.5347
+      },
+      {
+        "joint": 22,
+        "error": 0.3264
+      },
+      {
+        "joint": 23,
+        "error": 0.4542
+      },
+      {
+        "joint": 24,
+        "error": 1.2924
+      }
+    ]
+  },
+  {
+    "frame": 22,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.8283
+      },
+      {
+        "joint": 1,
+        "error": 3.3409
+      },
+      {
+        "joint": 2,
+        "error": 2.2021
+      },
+      {
+        "joint": 3,
+        "error": 3.1903
+      },
+      {
+        "joint": 4,
+        "error": 2.1861
+      },
+      {
+        "joint": 5,
+        "error": 1.5949
+      },
+      {
+        "joint": 6,
+        "error": 1.2272
+      },
+      {
+        "joint": 7,
+        "error": 0.9505
+      },
+      {
+        "joint": 8,
+        "error": 1.4488
+      },
+      {
+        "joint": 9,
+        "error": 0.3827
+      },
+      {
+        "joint": 10,
+        "error": 3.3856
+      },
+      {
+        "joint": 11,
+        "error": 2.6322
+      },
+      {
+        "joint": 12,
+        "error": 0.4995
+      },
+      {
+        "joint": 13,
+        "error": 1.0813
+      },
+      {
+        "joint": 14,
+        "error": 1.7915
+      },
+      {
+        "joint": 15,
+        "error": 1.7151
+      },
+      {
+        "joint": 16,
+        "error": 1.4392
+      },
+      {
+        "joint": 17,
+        "error": 0.7738
+      },
+      {
+        "joint": 18,
+        "error": 1.2019
+      },
+      {
+        "joint": 19,
+        "error": 2.3923
+      },
+      {
+        "joint": 20,
+        "error": 1.7135
+      },
+      {
+        "joint": 21,
+        "error": 1.1953
+      },
+      {
+        "joint": 22,
+        "error": 1.4362
+      },
+      {
+        "joint": 23,
+        "error": 1.2678
+      },
+      {
+        "joint": 24,
+        "error": 2.1215
+      }
+    ]
+  },
+  {
+    "frame": 23,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 2.1999
+      },
+      {
+        "joint": 1,
+        "error": 2.7118
+      },
+      {
+        "joint": 2,
+        "error": 1.9323
+      },
+      {
+        "joint": 3,
+        "error": 0.7575
+      },
+      {
+        "joint": 4,
+        "error": 1.4844
+      },
+      {
+        "joint": 5,
+        "error": 0.6452
+      },
+      {
+        "joint": 6,
+        "error": 1.0424
+      },
+      {
+        "joint": 7,
+        "error": 2.7306
+      },
+      {
+        "joint": 8,
+        "error": 0.3823
+      },
+      {
+        "joint": 9,
+        "error": 1.5675
+      },
+      {
+        "joint": 10,
+        "error": 2.9008
+      },
+      {
+        "joint": 11,
+        "error": 2.0552
+      },
+      {
+        "joint": 12,
+        "error": 2.5477
+      },
+      {
+        "joint": 13,
+        "error": 0.9117
+      },
+      {
+        "joint": 14,
+        "error": 0.6065
+      },
+      {
+        "joint": 15,
+        "error": 3.4961
+      },
+      {
+        "joint": 16,
+        "error": 0.903
+      },
+      {
+        "joint": 17,
+        "error": 1.8436
+      },
+      {
+        "joint": 18,
+        "error": 3.4926
+      },
+      {
+        "joint": 19,
+        "error": 3.6834
+      },
+      {
+        "joint": 20,
+        "error": 0.5597
+      },
+      {
+        "joint": 21,
+        "error": 1.9254
+      },
+      {
+        "joint": 22,
+        "error": 3.1421
+      },
+      {
+        "joint": 23,
+        "error": 2.2758
+      },
+      {
+        "joint": 24,
+        "error": 1.185
+      }
+    ]
+  },
+  {
+    "frame": 24,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 0.5183
+      },
+      {
+        "joint": 1,
+        "error": 2.2905
+      },
+      {
+        "joint": 2,
+        "error": 2.065
+      },
+      {
+        "joint": 3,
+        "error": 2.6497
+      },
+      {
+        "joint": 4,
+        "error": 1.6257
+      },
+      {
+        "joint": 5,
+        "error": 2.0504
+      },
+      {
+        "joint": 6,
+        "error": 2.3867
+      },
+      {
+        "joint": 7,
+        "error": 2.9871
+      },
+      {
+        "joint": 8,
+        "error": 2.4503
+      },
+      {
+        "joint": 9,
+        "error": 2.6408
+      },
+      {
+        "joint": 10,
+        "error": 3.0364
+      },
+      {
+        "joint": 11,
+        "error": 0.6579
+      },
+      {
+        "joint": 12,
+        "error": 2.0437
+      },
+      {
+        "joint": 13,
+        "error": 1.6501
+      },
+      {
+        "joint": 14,
+        "error": 1.9974
+      },
+      {
+        "joint": 15,
+        "error": 1.6997
+      },
+      {
+        "joint": 16,
+        "error": 1.3535
+      },
+      {
+        "joint": 17,
+        "error": 1.4734
+      },
+      {
+        "joint": 18,
+        "error": 1.8647
+      },
+      {
+        "joint": 19,
+        "error": 1.8369
+      },
+      {
+        "joint": 20,
+        "error": 1.7433
+      },
+      {
+        "joint": 21,
+        "error": 2.6492
+      },
+      {
+        "joint": 22,
+        "error": 1.6688
+      },
+      {
+        "joint": 23,
+        "error": 0.8809
+      },
+      {
+        "joint": 24,
+        "error": 1.9309
+      }
+    ]
+  },
+  {
+    "frame": 25,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.0717
+      },
+      {
+        "joint": 1,
+        "error": 1.0479
+      },
+      {
+        "joint": 2,
+        "error": 0.4115
+      },
+      {
+        "joint": 3,
+        "error": 1.7778
+      },
+      {
+        "joint": 4,
+        "error": 1.2778
+      },
+      {
+        "joint": 5,
+        "error": 0.8906
+      },
+      {
+        "joint": 6,
+        "error": 0.7523
+      },
+      {
+        "joint": 7,
+        "error": 1.5473
+      },
+      {
+        "joint": 8,
+        "error": 0.9034
+      },
+      {
+        "joint": 9,
+        "error": 2.1676
+      },
+      {
+        "joint": 10,
+        "error": 0.8267
+      },
+      {
+        "joint": 11,
+        "error": 1.6958
+      },
+      {
+        "joint": 12,
+        "error": 1.6304
+      },
+      {
+        "joint": 13,
+        "error": 1.0923
+      },
+      {
+        "joint": 14,
+        "error": 2.6698
+      },
+      {
+        "joint": 15,
+        "error": 1.3927
+      },
+      {
+        "joint": 17,
+        "error": 1.022
+      },
+      {
+        "joint": 18,
+        "error": 2.6764
+      },
+      {
+        "joint": 19,
+        "error": 0.6137
+      },
+      {
+        "joint": 20,
+        "error": 2.5359
+      },
+      {
+        "joint": 21,
+        "error": 1.1482
+      },
+      {
+        "joint": 22,
+        "error": 2.6323
+      },
+      {
+        "joint": 23,
+        "error": 1.1921
+      },
+      {
+        "joint": 24,
+        "error": 2.2661
+      }
+    ]
+  },
+  {
+    "frame": 26,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 2.114
+      },
+      {
+        "joint": 1,
+        "error": 0.9633
+      },
+      {
+        "joint": 2,
+        "error": 1.5194
+      },
+      {
+        "joint": 3,
+        "error": 3.0488
+      },
+      {
+        "joint": 4,
+        "error": 2.8399
+      },
+      {
+        "joint": 5,
+        "error": 1.0261
+      },
+      {
+        "joint": 6,
+        "error": 0.4526
+      },
+      {
+        "joint": 7,
+        "error": 2.9797
+      },
+      {
+        "joint": 8,
+        "error": 1.7771
+      },
+      {
+        "joint": 9,
+        "error": 1.9325
+      },
+      {
+        "joint": 10,
+        "error": 2.584
+      },
+      {
+        "joint": 11,
+        "error": 1.9406
+      },
+      {
+        "joint": 12,
+        "error": 2.7364
+      },
+      {
+        "joint": 13,
+        "error": 1.8976
+      },
+      {
+        "joint": 14,
+        "error": 2.136
+      },
+      {
+        "joint": 15,
+        "error": 2.4977
+      },
+      {
+        "joint": 16,
+        "error": 1.6252
+      },
+      {
+        "joint": 17,
+        "error": 1.5597
+      },
+      {
+        "joint": 18,
+        "error": 1.6522
+      },
+      {
+        "joint": 21,
+        "error": 2.277
+      },
+      {
+        "joint": 22,
+        "error": 2.2796
+      },
+      {
+        "joint": 23,
+        "error": 1.7762
+      },
+      {
+        "joint": 24,
+        "error": 1.0265
+      }
+    ]
+  },
+  {
+    "frame": 27,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 2.9963
+      },
+      {
+        "joint": 1,
+        "error": 0.4577
+      },
+      {
+        "joint": 2,
+        "error": 1.709
+      },
+      {
+        "joint": 3,
+        "error": 2.5314
+      },
+      {
+        "joint": 4,
+        "error": 1.0295
+      },
+      {
+        "joint": 5,
+        "error": 2.6943
+      },
+      {
+        "joint": 6,
+        "error": 1.9858
+      },
+      {
+        "joint": 7,
+        "error": 2.2453
+      },
+      {
+        "joint": 8,
+        "error": 1.854
+      },
+      {
+        "joint": 9,
+        "error": 0.5563
+      },
+      {
+        "joint": 10,
+        "error": 2.8362
+      },
+      {
+        "joint": 11,
+        "error": 0.9228
+      },
+      {
+        "joint": 12,
+        "error": 2.0088
+      },
+      {
+        "joint": 13,
+        "error": 1.5287
+      },
+      {
+        "joint": 14,
+        "error": 2.2375
+      },
+      {
+        "joint": 15,
+        "error": 1.8143
+      },
+      {
+        "joint": 16,
+        "error": 1.1264
+      },
+      {
+        "joint": 17,
+        "error": 2.4167
+      },
+      {
+        "joint": 18,
+        "error": 1.3689
+      },
+      {
+        "joint": 19,
+        "error": 1.1133
+      },
+      {
+        "joint": 20,
+        "error": 0.4866
+      },
+      {
+        "joint": 21,
+        "error": 0.659
+      },
+      {
+        "joint": 22,
+        "error": 3.1088
+      },
+      {
+        "joint": 23,
+        "error": 1.1406
+      },
+      {
+        "joint": 24,
+        "error": 2.7372
+      }
+    ]
+  },
+  {
+    "frame": 28,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 0.7175
+      },
+      {
+        "joint": 1,
+        "error": 2.1027
+      },
+      {
+        "joint": 2,
+        "error": 1.3212
+      },
+      {
+        "joint": 3,
+        "error": 0.2191
+      },
+      {
+        "joint": 4,
+        "error": 1.4898
+      },
+      {
+        "joint": 5,
+        "error": 1.2476
+      },
+      {
+        "joint": 6,
+        "error": 2.1532
+      },
+      {
+        "joint": 7,
+        "error": 2.0114
+      },
+      {
+        "joint": 8,
+        "error": 2.1504
+      },
+      {
+        "joint": 9,
+        "error": 1.769
+      },
+      {
+        "joint": 10,
+        "error": 1.0603
+      },
+      {
+        "joint": 11,
+        "error": 2.31
+      },
+      {
+        "joint": 12,
+        "error": 0.2043
+      },
+      {
+        "joint": 13,
+        "error": 1.878
+      },
+      {
+        "joint": 14,
+        "error": 1.2988
+      },
+      {
+        "joint": 15,
+        "error": 1.0261
+      },
+      {
+        "joint": 16,
+        "error": 1.0729
+      },
+      {
+        "joint": 17,
+        "error": 2.3605
+      },
+      {
+        "joint": 18,
+        "error": 2.9979
+      },
+      {
+        "joint": 19,
+        "error": 1.3923
+      },
+      {
+        "joint": 20,
+        "error": 0.8761
+      },
+      {
+        "joint": 21,
+        "error": 2.1517
+      },
+      {
+        "joint": 22,
+        "error": 1.3845
+      },
+      {
+        "joint": 23,
+        "error": 1.0818
+      },
+      {
+        "joint": 24,
+        "error": 0.6864
+      }
+    ]
+  },
+  {
+    "frame": 29,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.0078
+      },
+      {
+        "joint": 1,
+        "error": 1.9125
+      },
+      {
+        "joint": 2,
+        "error": 0.8129
+      },
+      {
+        "joint": 3,
+        "error": 1.9287
+      },
+      {
+        "joint": 4,
+        "error": 1.535
+      },
+      {
+        "joint": 5,
+        "error": 2.4024
+      },
+      {
+        "joint": 6,
+        "error": 2.7173
+      },
+      {
+        "joint": 7,
+        "error": 1.797
+      },
+      {
+        "joint": 8,
+        "error": 3.5947
+      },
+      {
+        "joint": 9,
+        "error": 1.6449
+      },
+      {
+        "joint": 10,
+        "error": 0.4142
+      },
+      {
+        "joint": 11,
+        "error": 2.2382
+      },
+      {
+        "joint": 12,
+        "error": 0.5007
+      },
+      {
+        "joint": 13,
+        "error": 2.5793
+      },
+      {
+        "joint": 14,
+        "error": 0.6736
+      },
+      {
+        "joint": 15,
+        "error": 2.4964
+      },
+      {
+        "joint": 16,
+        "error": 0.4289
+      },
+      {
+        "joint": 17,
+        "error": 0.2388
+      },
+      {
+        "joint": 18,
+        "error": 2.0198
+      },
+      {
+        "joint": 19,
+        "error": 0.9081
+      },
+      {
+        "joint": 20,
+        "error": 1.9178
+      },
+      {
+        "joint": 21,
+        "error": 3.3244
+      },
+      {
+        "joint": 22,
+        "error": 0.7876
+      },
+      {
+        "joint": 23,
+        "error": 1.3197
+      },
+      {
+        "joint": 24,
+        "error": 2.32
+      }
+    ]
+  },
+  {
+    "frame": 30,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.0583
+      },
+      {
+        "joint": 1,
+        "error": 3.5973
+      },
+      {
+        "joint": 2,
+        "error": 3.5593
+      },
+      {
+        "joint": 3,
+        "error": 1.457
+      },
+      {
+        "joint": 4,
+        "error": 2.1131
+      },
+      {
+        "joint": 5,
+        "error": 0.8192
+      },
+      {
+        "joint": 6,
+        "error": 1.8389
+      },
+      {
+        "joint": 7,
+        "error": 1.6067
+      },
+      {
+        "joint": 8,
+        "error": 0.9188
+      },
+      {
+        "joint": 9,
+        "error": 1.0821
+      },
+      {
+        "joint": 10,
+        "error": 1.744
+      },
+      {
+        "joint": 11,
+        "error": 1.9261
+      },
+      {
+        "joint": 12,
+        "error": 2.4402
+      },
+      {
+        "joint": 13,
+        "error": 1.1602
+      },
+      {
+        "joint": 14,
+        "error": 2.8391
+      },
+      {
+        "joint": 15,
+        "error": 2.6176
+      },
+      {
+        "joint": 16,
+        "error": 1.4192
+      },
+      {
+        "joint": 18,
+        "error": 0.9552
+      },
+      {
+        "joint": 19,
+        "error": 3.0861
+      },
+      {
+        "joint": 20,
+        "error": 1.0745
+      },
+      {
+        "joint": 21,
+        "error": 2.7955
+      },
+      {
+        "joint": 22,
+        "error": 1.0118
+      },
+      {
+        "joint": 23,
+        "error": 1.9318
+      },
+      {
+        "joint": 24,
+        "error": 0.6884
+      }
+    ]
+  },
+  {
+    "frame": 31,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.9296
+      },
+      {
+        "joint": 1,
+        "error": 2.4672
+      },
+      {
+        "joint": 2,
+        "error": 2.3002
+      },
+      {
+        "joint": 3,
+        "error": 2.7733
+      },
+      {
+        "joint": 4,
+        "error": 2.2211
+      },
+      {
+        "joint": 5,
+        "error": 1.0327
+      },
+      {
+        "joint": 6,
+        "error": 2.3614
+      },
+      {
+        "joint": 7,
+        "error": 3.185
+      },
+      {
+        "joint": 8,
+        "error": 2.668
+      },
+      {
+        "joint": 9,
+        "error": 0.7652
+      },
+      {
+        "joint": 10,
+        "error": 0.7176
+      },
+      {
+        "joint": 11,
+        "error": 1.2845
+      },
+      {
+        "joint": 12,
+        "error": 0.4783
+      },
+      {
+        "joint": 13,
+        "error": 2.5156
+      },
+      {
+        "joint": 14,
+        "error": 2.1596
+      },
+      {
+        "joint": 15,
+        "error": 1.5879
+      },
+      {
+        "joint": 16,
+        "error": 0.8276
+      },
+      {
+        "joint": 17,
+        "error": 0.7431
+      },
+      {
+        "joint": 18,
+        "error": 2.4804
+      },
+      {
+        "joint": 19,
+        "error": 0.8621
+      },
+      {
+        "joint": 20,
+        "error": 2.9807
+      },
+      {
+        "joint": 21,
+        "error": 1.4224
+      },
+      {
+        "joint": 22,
+        "error": 1.452
+      },
+      {
+        "joint": 23,
+        "error": 2.099
+      },
+      {
+        "joint": 24,
+        "error": 1.9196
+      }
+    ]
+  },
+  {
+    "frame": 32,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.0398
+      },
+      {
+        "joint": 1,
+        "error": 2.6715
+      },
+      {
+        "joint": 2,
+        "error": 2.8336
+      },
+      {
+        "joint": 3,
+        "error": 0.843
+      },
+      {
+        "joint": 4,
+        "error": 3.086
+      },
+      {
+        "joint": 5,
+        "error": 1.0811
+      },
+      {
+        "joint": 6,
+        "error": 1.7297
+      },
+      {
+        "joint": 7,
+        "error": 1.9507
+      },
+      {
+        "joint": 8,
+        "error": 2.2189
+      },
+      {
+        "joint": 9,
+        "error": 0.9418
+      },
+      {
+        "joint": 11,
+        "error": 3.3657
+      },
+      {
+        "joint": 12,
+        "error": 1.0576
+      },
+      {
+        "joint": 13,
+        "error": 1.584
+      },
+      {
+        "joint": 14,
+        "error": 2.6464
+      },
+      {
+        "joint": 15,
+        "error": 2.3228
+      },
+      {
+        "joint": 16,
+        "error": 0.7832
+      },
+      {
+        "joint": 17,
+        "error": 1.729
+      },
+      {
+        "joint": 18,
+        "error": 1.5282
+      },
+      {
+        "joint": 19,
+        "error": 1.3371
+      },
+      {
+        "joint": 20,
+        "error": 1.7881
+      },
+      {
+        "joint": 21,
+        "error": 1.4872
+      },
+      {
+        "joint": 22,
+        "error": 1.4709
+      },
+      {
+        "joint": 23,
+        "error": 2.1756
+      },
+      {
+        "joint": 24,
+        "error": 2.2245
+      }
+    ]
+  },
+  {
+    "frame": 33,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 0.3476
+      },
+      {
+        "joint": 1,
+        "error": 3.3669
+      },
+      {
+        "joint": 2,
+        "error": 0.2828
+      },
+      {
+        "joint": 3,
+        "error": 1.9087
+      },
+      {
+        "joint": 4,
+        "error": 0.2909
+      },
+      {
+        "joint": 5,
+        "error": 2.3162
+      },
+      {
+        "joint": 6,
+        "error": 1.9733
+      },
+      {
+        "joint": 7,
+        "error": 2.4963
+      },
+      {
+        "joint": 8,
+        "error": 1.8065
+      },
+      {
+        "joint": 9,
+        "error": 2.969
+      },
+      {
+        "joint": 10,
+        "error": 2.314
+      },
+      {
+        "joint": 11,
+        "error": 3.5391
+      },
+      {
+        "joint": 12,
+        "error": 3.0196
+      },
+      {
+        "joint": 13,
+        "error": 2.7163
+      },
+      {
+        "joint": 14,
+        "error": 3.3243
+      },
+      {
+        "joint": 15,
+        "error": 1.0451
+      },
+      {
+        "joint": 16,
+        "error": 3.0477
+      },
+      {
+        "joint": 17,
+        "error": 1.4419
+      },
+      {
+        "joint": 18,
+        "error": 2.8866
+      },
+      {
+        "joint": 19,
+        "error": 2.9736
+      },
+      {
+        "joint": 20,
+        "error": 2.2374
+      },
+      {
+        "joint": 21,
+        "error": 1.6261
+      },
+      {
+        "joint": 22,
+        "error": 1.7778
+      },
+      {
+        "joint": 23,
+        "error": 0.5289
+      },
+      {
+        "joint": 24,
+        "error": 1.0064
+      }
+    ]
+  },
+  {
+    "frame": 34,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.5763
+      },
+      {
+        "joint": 1,
+        "error": 1.3504
+      },
+      {
+        "joint": 3,
+        "error": 2.2453
+      },
+      {
+        "joint": 4,
+        "error": 2.3861
+      },
+      {
+        "joint": 5,
+        "error": 1.9273
+      },
+      {
+        "joint": 6,
+        "error": 2.0232
+      },
+      {
+        "joint": 7,
+        "error": 2.5832
+      },
+      {
+        "joint": 8,
+        "error": 2.4821
+      },
+      {
+        "joint": 9,
+        "error": 2.3289
+      },
+      {
+        "joint": 10,
+        "error": 2.1182
+      },
+      {
+        "joint": 11,
+        "error": 1.7151
+      },
+      {
+        "joint": 12,
+        "error": 3.539
+      },
+      {
+        "joint": 13,
+        "error": 2.6307
+      },
+      {
+        "joint": 14,
+        "error": 2.1625
+      },
+      {
+        "joint": 15,
+        "error": 2.5229
+      },
+      {
+        "joint": 16,
+        "error": 1.3079
+      },
+      {
+        "joint": 17,
+        "error": 2.643
+      },
+      {
+        "joint": 18,
+        "error": 1.378
+      },
+      {
+        "joint": 19,
+        "error": 2.2192
+      },
+      {
+        "joint": 20,
+        "error": 0.3383
+      },
+      {
+        "joint": 21,
+        "error": 3.6378
+      },
+      {
+        "joint": 22,
+        "error": 2.1375
+      },
+      {
+        "joint": 23,
+        "error": 2.0596
+      },
+      {
+        "joint": 24,
+        "error": 3.711
+      }
+    ]
+  },
+  {
+    "frame": 35,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 3.104
+      },
+      {
+        "joint": 1,
+        "error": 3.6158
+      },
+      {
+        "joint": 3,
+        "error": 2.6475
+      },
+      {
+        "joint": 4,
+        "error": 1.9575
+      },
+      {
+        "joint": 5,
+        "error": 1.8478
+      },
+      {
+        "joint": 6,
+        "error": 2.5629
+      },
+      {
+        "joint": 7,
+        "error": 0.456
+      },
+      {
+        "joint": 8,
+        "error": 1.5432
+      },
+      {
+        "joint": 9,
+        "error": 1.0994
+      },
+      {
+        "joint": 10,
+        "error": 0.6999
+      },
+      {
+        "joint": 11,
+        "error": 2.3998
+      },
+      {
+        "joint": 12,
+        "error": 1.3398
+      },
+      {
+        "joint": 13,
+        "error": 0.9051
+      },
+      {
+        "joint": 14,
+        "error": 1.6157
+      },
+      {
+        "joint": 15,
+        "error": 1.9236
+      },
+      {
+        "joint": 16,
+        "error": 0.4803
+      },
+      {
+        "joint": 17,
+        "error": 1.9237
+      },
+      {
+        "joint": 18,
+        "error": 3.0352
+      },
+      {
+        "joint": 19,
+        "error": 1.8151
+      },
+      {
+        "joint": 20,
+        "error": 2.0572
+      },
+      {
+        "joint": 21,
+        "error": 3.0477
+      },
+      {
+        "joint": 22,
+        "error": 0.6109
+      },
+      {
+        "joint": 23,
+        "error": 1.3007
+      },
+      {
+        "joint": 24,
+        "error": 0.6407
+      }
+    ]
+  },
+  {
+    "frame": 36,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 0.8999
+      },
+      {
+        "joint": 1,
+        "error": 0.7989
+      },
+      {
+        "joint": 2,
+        "error": 2.1398
+      },
+      {
+        "joint": 3,
+        "error": 2.3856
+      },
+      {
+        "joint": 4,
+        "error": 1.5664
+      },
+      {
+        "joint": 5,
+        "error": 2.78
+      },
+      {
+        "joint": 6,
+        "error": 2.8695
+      },
+      {
+        "joint": 7,
+        "error": 1.4012
+      },
+      {
+        "joint": 8,
+        "error": 1.0957
+      },
+      {
+        "joint": 9,
+        "error": 2.5038
+      },
+      {
+        "joint": 10,
+        "error": 1.6607
+      },
+      {
+        "joint": 11,
+        "error": 1.4151
+      },
+      {
+        "joint": 12,
+        "error": 2.8693
+      },
+      {
+        "joint": 13,
+        "error": 1.3392
+      },
+      {
+        "joint": 14,
+        "error": 2.503
+      },
+      {
+        "joint": 15,
+        "error": 3.3652
+      },
+      {
+        "joint": 16,
+        "error": 1.5789
+      },
+      {
+        "joint": 17,
+        "error": 1.7513
+      },
+      {
+        "joint": 18,
+        "error": 2.2875
+      },
+      {
+        "joint": 19,
+        "error": 2.0823
+      },
+      {
+        "joint": 20,
+        "error": 1.6686
+      },
+      {
+        "joint": 21,
+        "error": 0.3786
+      },
+      {
+        "joint": 22,
+        "error": 2.0241
+      },
+      {
+        "joint": 23,
+        "error": 1.9182
+      },
+      {
+        "joint": 24,
+        "error": 3.0956
+      }
+    ]
+  },
+  {
+    "frame": 37,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 2.3741
+      },
+      {
+        "joint": 1,
+        "error": 1.5834
+      },
+      {
+        "joint": 2,
+        "error": 1.9384
+      },
+      {
+        "joint": 3,
+        "error": 1.1431
+      },
+      {
+        "joint": 4,
+        "error": 2.4376
+      },
+      {
+        "joint": 5,
+        "error": 0.8274
+      },
+      {
+        "joint": 6,
+        "error": 1.3117
+      },
+      {
+        "joint": 7,
+        "error": 1.7251
+      },
+      {
+        "joint": 9,
+        "error": 2.0211
+      },
+      {
+        "joint": 10,
+        "error": 0.4557
+      },
+      {
+        "joint": 11,
+        "error": 1.6152
+      },
+      {
+        "joint": 12,
+        "error": 0.2546
+      },
+      {
+        "joint": 13,
+        "error": 3.163
+      },
+      {
+        "joint": 14,
+        "error": 1.2232
+      },
+      {
+        "joint": 15,
+        "error": 3.032
+      },
+      {
+        "joint": 16,
+        "error": 2.8783
+      },
+      {
+        "joint": 17,
+        "error": 1.4415
+      },
+      {
+        "joint": 18,
+        "error": 0.7875
+      },
+      {
+        "joint": 19,
+        "error": 0.7593
+      },
+      {
+        "joint": 20,
+        "error": 0.9
+      },
+      {
+        "joint": 21,
+        "error": 2.206
+      },
+      {
+        "joint": 22,
+        "error": 2.6398
+      },
+      {
+        "joint": 23,
+        "error": 2.9284
+      },
+      {
+        "joint": 24,
+        "error": 2.0467
+      }
+    ]
+  },
+  {
+    "frame": 38,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 0.4603
+      },
+      {
+        "joint": 1,
+        "error": 2.75
+      },
+      {
+        "joint": 2,
+        "error": 4.009
+      },
+      {
+        "joint": 3,
+        "error": 1.0187
+      },
+      {
+        "joint": 4,
+        "error": 2.6065
+      },
+      {
+        "joint": 5,
+        "error": 1.3041
+      },
+      {
+        "joint": 6,
+        "error": 1.7139
+      },
+      {
+        "joint": 7,
+        "error": 1.2539
+      },
+      {
+        "joint": 8,
+        "error": 3.0234
+      },
+      {
+        "joint": 9,
+        "error": 2.1025
+      },
+      {
+        "joint": 10,
+        "error": 2.5358
+      },
+      {
+        "joint": 11,
+        "error": 1.6878
+      },
+      {
+        "joint": 12,
+        "error": 3.1615
+      },
+      {
+        "joint": 13,
+        "error": 3.314
+      },
+      {
+        "joint": 14,
+        "error": 2.3668
+      },
+      {
+        "joint": 15,
+        "error": 1.6275
+      },
+      {
+        "joint": 16,
+        "error": 2.5128
+      },
+      {
+        "joint": 17,
+        "error": 2.3471
+      },
+      {
+        "joint": 18,
+        "error": 2.4314
+      },
+      {
+        "joint": 19,
+        "error": 0.905
+      },
+      {
+        "joint": 20,
+        "error": 0.9087
+      },
+      {
+        "joint": 21,
+        "error": 1.9558
+      },
+      {
+        "joint": 22,
+        "error": 2.1545
+      },
+      {
+        "joint": 23,
+        "error": 0.6063
+      },
+      {
+        "joint": 24,
+        "error": 1.8317
+      }
+    ]
+  },
+  {
+    "frame": 39,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 2.4041
+      },
+      {
+        "joint": 1,
+        "error": 2.6918
+      },
+      {
+        "joint": 2,
+        "error": 1.6725
+      },
+      {
+        "joint": 3,
+        "error": 1.5597
+      },
+      {
+        "joint": 4,
+        "error": 1.2076
+      },
+      {
+        "joint": 5,
+        "error": 2.4289
+      },
+      {
+        "joint": 6,
+        "error": 2.1108
+      },
+      {
+        "joint": 7,
+        "error": 0.7152
+      },
+      {
+        "joint": 8,
+        "error": 1.8976
+      },
+      {
+        "joint": 9,
+        "error": 1.275
+      },
+      {
+        "joint": 10,
+        "error": 1.1106
+      },
+      {
+        "joint": 11,
+        "error": 1.7039
+      },
+      {
+        "joint": 12,
+        "error": 0.8951
+      },
+      {
+        "joint": 13,
+        "error": 2.869
+      },
+      {
+        "joint": 14,
+        "error": 1.6609
+      },
+      {
+        "joint": 15,
+        "error": 1.212
+      },
+      {
+        "joint": 16,
+        "error": 1.7312
+      },
+      {
+        "joint": 17,
+        "error": 1.3141
+      },
+      {
+        "joint": 18,
+        "error": 1.5998
+      },
+      {
+        "joint": 19,
+        "error": 2.1769
+      },
+      {
+        "joint": 20,
+        "error": 3.2085
+      },
+      {
+        "joint": 21,
+        "error": 0.7142
+      },
+      {
+        "joint": 22,
+        "error": 0.6692
+      },
+      {
+        "joint": 23,
+        "error": 1.5239
+      },
+      {
+        "joint": 24,
+        "error": 2.0872
+      }
+    ]
+  },
+  {
+    "frame": 40,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 3.2906
+      },
+      {
+        "joint": 1,
+        "error": 1.0306
+      },
+      {
+        "joint": 2,
+        "error": 1.4793
+      },
+      {
+        "joint": 3,
+        "error": 2.5288
+      },
+      {
+        "joint": 4,
+        "error": 1.4106
+      },
+      {
+        "joint": 5,
+        "error": 0.9943
+      },
+      {
+        "joint": 6,
+        "error": 2.3519
+      },
+      {
+        "joint": 7,
+        "error": 1.5822
+      },
+      {
+        "joint": 8,
+        "error": 1.864
+      },
+      {
+        "joint": 9,
+        "error": 1.302
+      },
+      {
+        "joint": 10,
+        "error": 1.4323
+      },
+      {
+        "joint": 11,
+        "error": 2.4465
+      },
+      {
+        "joint": 12,
+        "error": 0.9319
+      },
+      {
+        "joint": 13,
+        "error": 2.8549
+      },
+      {
+        "joint": 14,
+        "error": 1.4564
+      },
+      {
+        "joint": 15,
+        "error": 1.6334
+      },
+      {
+        "joint": 16,
+        "error": 3.6979
+      },
+      {
+        "joint": 17,
+        "error": 1.3539
+      },
+      {
+        "joint": 18,
+        "error": 2.1148
+      },
+      {
+        "joint": 19,
+        "error": 1.6388
+      },
+      {
+        "joint": 20,
+        "error": 1.1366
+      },
+      {
+        "joint": 21,
+        "error": 1.2296
+      },
+      {
+        "joint": 22,
+        "error": 1.2737
+      },
+      {
+        "joint": 23,
+        "error": 2.0285
+      },
+      {
+        "joint": 24,
+        "error": 2.248
+      }
+    ]
+  },
+  {
+    "frame": 41,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.2287
+      },
+      {
+        "joint": 1,
+        "error": 0.5842
+      },
+      {
+        "joint": 2,
+        "error": 1.0296
+      },
+      {
+        "joint": 3,
+        "error": 2.0266
+      },
+      {
+        "joint": 4,
+        "error": 0.4654
+      },
+      {
+        "joint": 5,
+        "error": 2.4472
+      },
+      {
+        "joint": 6,
+        "error": 0.6479
+      },
+      {
+        "joint": 7,
+        "error": 2.2435
+      },
+      {
+        "joint": 8,
+        "error": 1.7534
+      },
+      {
+        "joint": 9,
+        "error": 1.5119
+      },
+      {
+        "joint": 10,
+        "error": 2.0564
+      },
+      {
+        "joint": 11,
+        "error": 1.4968
+      },
+      {
+        "joint": 12,
+        "error": 2.1714
+      },
+      {
+        "joint": 13,
+        "error": 2.4617
+      },
+      {
+        "joint": 14,
+        "error": 2.1188
+      },
+      {
+        "joint": 15,
+        "error": 1.2259
+      },
+      {
+        "joint": 16,
+        "error": 1.2724
+      },
+      {
+        "joint": 17,
+        "error": 1.8454
+      },
+      {
+        "joint": 18,
+        "error": 2.8795
+      },
+      {
+        "joint": 20,
+        "error": 2.1977
+      },
+      {
+        "joint": 21,
+        "error": 0.945
+      },
+      {
+        "joint": 22,
+        "error": 3.0174
+      },
+      {
+        "joint": 23,
+        "error": 2.0917
+      },
+      {
+        "joint": 24,
+        "error": 0.9112
+      }
+    ]
+  },
+  {
+    "frame": 42,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.4138
+      },
+      {
+        "joint": 1,
+        "error": 1.0229
+      },
+      {
+        "joint": 2,
+        "error": 1.5088
+      },
+      {
+        "joint": 3,
+        "error": 0.7405
+      },
+      {
+        "joint": 4,
+        "error": 0.5135
+      },
+      {
+        "joint": 5,
+        "error": 0.8655
+      },
+      {
+        "joint": 6,
+        "error": 1.0172
+      },
+      {
+        "joint": 7,
+        "error": 0.6979
+      },
+      {
+        "joint": 8,
+        "error": 1.5337
+      },
+      {
+        "joint": 9,
+        "error": 0.4975
+      },
+      {
+        "joint": 10,
+        "error": 2.526
+      },
+      {
+        "joint": 11,
+        "error": 2.1964
+      },
+      {
+        "joint": 12,
+        "error": 2.871
+      },
+      {
+        "joint": 13,
+        "error": 1.6364
+      },
+      {
+        "joint": 14,
+        "error": 2.717
+      },
+      {
+        "joint": 15,
+        "error": 3.5349
+      },
+      {
+        "joint": 16,
+        "error": 1.323
+      },
+      {
+        "joint": 17,
+        "error": 1.9476
+      },
+      {
+        "joint": 18,
+        "error": 0.4813
+      },
+      {
+        "joint": 19,
+        "error": 2.5717
+      },
+      {
+        "joint": 20,
+        "error": 2.3986
+      },
+      {
+        "joint": 21,
+        "error": 0.3597
+      },
+      {
+        "joint": 22,
+        "error": 3.062
+      },
+      {
+        "joint": 23,
+        "error": 1.5727
+      },
+      {
+        "joint": 24,
+        "error": 1.1768
+      }
+    ]
+  },
+  {
+    "frame": 43,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.673
+      },
+      {
+        "joint": 1,
+        "error": 0.7412
+      },
+      {
+        "joint": 2,
+        "error": 0.37
+      },
+      {
+        "joint": 3,
+        "error": 1.4786
+      },
+      {
+        "joint": 4,
+        "error": 2.8525
+      },
+      {
+        "joint": 5,
+        "error": 3.0841
+      },
+      {
+        "joint": 6,
+        "error": 1.3372
+      },
+      {
+        "joint": 7,
+        "error": 2.9427
+      },
+      {
+        "joint": 8,
+        "error": 0.4013
+      },
+      {
+        "joint": 9,
+        "error": 1.0394
+      },
+      {
+        "joint": 10,
+        "error": 1.2997
+      },
+      {
+        "joint": 11,
+        "error": 1.6129
+      },
+      {
+        "joint": 12,
+        "error": 0.5296
+      },
+      {
+        "joint": 13,
+        "error": 2.8052
+      },
+      {
+        "joint": 14,
+        "error": 2.0011
+      },
+      {
+        "joint": 15,
+        "error": 1.6023
+      },
+      {
+        "joint": 16,
+        "error": 0.7033
+      },
+      {
+        "joint": 17,
+        "error": 1.7208
+      },
+      {
+        "joint": 18,
+        "error": 1.5106
+      },
+      {
+        "joint": 19,
+        "error": 0.3138
+      },
+      {
+        "joint": 20,
+        "error": 2.4183
+      },
+      {
+        "joint": 21,
+        "error": 3.3626
+      },
+      {
+        "joint": 22,
+        "error": 2.5136
+      },
+      {
+        "joint": 23,
+        "error": 2.4977
+      },
+      {
+        "joint": 24,
+        "error": 2.5559
+      }
+    ]
+  },
+  {
+    "frame": 44,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.5249
+      },
+      {
+        "joint": 1,
+        "error": 1.6604
+      },
+      {
+        "joint": 2,
+        "error": 2.5143
+      },
+      {
+        "joint": 3,
+        "error": 1.0799
+      },
+      {
+        "joint": 4,
+        "error": 3.0386
+      },
+      {
+        "joint": 5,
+        "error": 2.5387
+      },
+      {
+        "joint": 6,
+        "error": 0.2252
+      },
+      {
+        "joint": 7,
+        "error": 2.5898
+      },
+      {
+        "joint": 8,
+        "error": 0.3742
+      },
+      {
+        "joint": 9,
+        "error": 1.6245
+      },
+      {
+        "joint": 10,
+        "error": 0.7476
+      },
+      {
+        "joint": 11,
+        "error": 2.0816
+      },
+      {
+        "joint": 12,
+        "error": 1.1157
+      },
+      {
+        "joint": 13,
+        "error": 1.1089
+      },
+      {
+        "joint": 14,
+        "error": 2.4191
+      },
+      {
+        "joint": 15,
+        "error": 1.6091
+      },
+      {
+        "joint": 16,
+        "error": 1.645
+      },
+      {
+        "joint": 17,
+        "error": 1.3623
+      },
+      {
+        "joint": 18,
+        "error": 0.6467
+      },
+      {
+        "joint": 19,
+        "error": 2.9117
+      },
+      {
+        "joint": 20,
+        "error": 0.7819
+      },
+      {
+        "joint": 21,
+        "error": 0.203
+      },
+      {
+        "joint": 22,
+        "error": 1.0416
+      },
+      {
+        "joint": 23,
+        "error": 1.6076
+      },
+      {
+        "joint": 24,
+        "error": 0.2238
+      }
+    ]
+  },
+  {
+    "frame": 45,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.5055
+      },
+      {
+        "joint": 1,
+        "error": 1.8537
+      },
+      {
+        "joint": 2,
+        "error": 1.6221
+      },
+      {
+        "joint": 3,
+        "error": 1.2036
+      },
+      {
+        "joint": 4,
+        "error": 0.2356
+      },
+      {
+        "joint": 5,
+        "error": 1.2921
+      },
+      {
+        "joint": 6,
+        "error": 2.9995
+      },
+      {
+        "joint": 7,
+        "error": 2.5895
+      },
+      {
+        "joint": 8,
+        "error": 1.1625
+      },
+      {
+        "joint": 9,
+        "error": 0.3643
+      },
+      {
+        "joint": 10,
+        "error": 1.2617
+      },
+      {
+        "joint": 11,
+        "error": 2.0591
+      },
+      {
+        "joint": 12,
+        "error": 2.0206
+      },
+      {
+        "joint": 13,
+        "error": 3.3062
+      },
+      {
+        "joint": 14,
+        "error": 1.3265
+      },
+      {
+        "joint": 15,
+        "error": 0.2073
+      },
+      {
+        "joint": 16,
+        "error": 0.6984
+      },
+      {
+        "joint": 17,
+        "error": 0.8543
+      },
+      {
+        "joint": 18,
+        "error": 2.4508
+      },
+      {
+        "joint": 19,
+        "error": 2.0242
+      },
+      {
+        "joint": 20,
+        "error": 0.446
+      },
+      {
+        "joint": 21,
+        "error": 2.8341
+      },
+      {
+        "joint": 22,
+        "error": 2.2226
+      },
+      {
+        "joint": 23,
+        "error": 1.3889
+      },
+      {
+        "joint": 24,
+        "error": 0.9699
+      }
+    ]
+  },
+  {
+    "frame": 46,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.809
+      },
+      {
+        "joint": 1,
+        "error": 1.5652
+      },
+      {
+        "joint": 2,
+        "error": 0.7013
+      },
+      {
+        "joint": 3,
+        "error": 2.2263
+      },
+      {
+        "joint": 4,
+        "error": 3.4059
+      },
+      {
+        "joint": 5,
+        "error": 4.4798
+      },
+      {
+        "joint": 6,
+        "error": 1.1064
+      },
+      {
+        "joint": 7,
+        "error": 1.585
+      },
+      {
+        "joint": 8,
+        "error": 3.0283
+      },
+      {
+        "joint": 9,
+        "error": 0.5185
+      },
+      {
+        "joint": 10,
+        "error": 0.4416
+      },
+      {
+        "joint": 11,
+        "error": 1.4276
+      },
+      {
+        "joint": 12,
+        "error": 1.5271
+      },
+      {
+        "joint": 13,
+        "error": 3.0745
+      },
+      {
+        "joint": 14,
+        "error": 0.5133
+      },
+      {
+        "joint": 15,
+        "error": 2.1137
+      },
+      {
+        "joint": 16,
+        "error": 1.5001
+      },
+      {
+        "joint": 17,
+        "error": 2.4705
+      },
+      {
+        "joint": 18,
+        "error": 0.9116
+      },
+      {
+        "joint": 19,
+        "error": 1.246
+      },
+      {
+        "joint": 20,
+        "error": 1.6714
+      },
+      {
+        "joint": 21,
+        "error": 1.336
+      },
+      {
+        "joint": 22,
+        "error": 2.2257
+      },
+      {
+        "joint": 23,
+        "error": 2.4896
+      },
+      {
+        "joint": 24,
+        "error": 0.3605
+      }
+    ]
+  },
+  {
+    "frame": 47,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 0.8194
+      },
+      {
+        "joint": 1,
+        "error": 0.7016
+      },
+      {
+        "joint": 2,
+        "error": 1.1841
+      },
+      {
+        "joint": 3,
+        "error": 1.4064
+      },
+      {
+        "joint": 4,
+        "error": 0.434
+      },
+      {
+        "joint": 5,
+        "error": 3.4056
+      },
+      {
+        "joint": 6,
+        "error": 2.1099
+      },
+      {
+        "joint": 7,
+        "error": 2.201
+      },
+      {
+        "joint": 8,
+        "error": 1.8484
+      },
+      {
+        "joint": 9,
+        "error": 1.5166
+      },
+      {
+        "joint": 10,
+        "error": 0.4306
+      },
+      {
+        "joint": 11,
+        "error": 1.948
+      },
+      {
+        "joint": 12,
+        "error": 2.1553
+      },
+      {
+        "joint": 13,
+        "error": 2.6316
+      },
+      {
+        "joint": 14,
+        "error": 1.7229
+      },
+      {
+        "joint": 15,
+        "error": 0.6922
+      },
+      {
+        "joint": 16,
+        "error": 1.6171
+      },
+      {
+        "joint": 17,
+        "error": 2.3127
+      },
+      {
+        "joint": 18,
+        "error": 0.2217
+      },
+      {
+        "joint": 19,
+        "error": 2.597
+      },
+      {
+        "joint": 20,
+        "error": 1.3425
+      },
+      {
+        "joint": 21,
+        "error": 2.3982
+      },
+      {
+        "joint": 22,
+        "error": 0.3014
+      },
+      {
+        "joint": 23,
+        "error": 2.4095
+      },
+      {
+        "joint": 24,
+        "error": 2.641
+      }
+    ]
+  },
+  {
+    "frame": 48,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 0.9292
+      },
+      {
+        "joint": 1,
+        "error": 2.5148
+      },
+      {
+        "joint": 2,
+        "error": 2.3571
+      },
+      {
+        "joint": 3,
+        "error": 1.2165
+      },
+      {
+        "joint": 4,
+        "error": 2.438
+      },
+      {
+        "joint": 5,
+        "error": 1.7589
+      },
+      {
+        "joint": 6,
+        "error": 2.0541
+      },
+      {
+        "joint": 7,
+        "error": 0.8905
+      },
+      {
+        "joint": 8,
+        "error": 1.3791
+      },
+      {
+        "joint": 9,
+        "error": 0.7596
+      },
+      {
+        "joint": 10,
+        "error": 3.0391
+      },
+      {
+        "joint": 11,
+        "error": 1.8133
+      },
+      {
+        "joint": 12,
+        "error": 2.3582
+      },
+      {
+        "joint": 13,
+        "error": 2.1894
+      },
+      {
+        "joint": 14,
+        "error": 1.3144
+      },
+      {
+        "joint": 15,
+        "error": 2.8492
+      },
+      {
+        "joint": 16,
+        "error": 2.5518
+      },
+      {
+        "joint": 17,
+        "error": 1.3176
+      },
+      {
+        "joint": 18,
+        "error": 2.0431
+      },
+      {
+        "joint": 19,
+        "error": 1.7162
+      },
+      {
+        "joint": 20,
+        "error": 1.2749
+      },
+      {
+        "joint": 21,
+        "error": 1.6214
+      },
+      {
+        "joint": 22,
+        "error": 1.1904
+      },
+      {
+        "joint": 23,
+        "error": 2.0866
+      },
+      {
+        "joint": 24,
+        "error": 2.7092
+      }
+    ]
+  },
+  {
+    "frame": 49,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.0574
+      },
+      {
+        "joint": 1,
+        "error": 1.9974
+      },
+      {
+        "joint": 2,
+        "error": 0.9747
+      },
+      {
+        "joint": 3,
+        "error": 1.413
+      },
+      {
+        "joint": 4,
+        "error": 2.9384
+      },
+      {
+        "joint": 5,
+        "error": 2.9562
+      },
+      {
+        "joint": 6,
+        "error": 1.153
+      },
+      {
+        "joint": 7,
+        "error": 1.9687
+      },
+      {
+        "joint": 8,
+        "error": 2.432
+      },
+      {
+        "joint": 9,
+        "error": 1.6724
+      },
+      {
+        "joint": 10,
+        "error": 1.6615
+      },
+      {
+        "joint": 11,
+        "error": 1.2785
+      },
+      {
+        "joint": 12,
+        "error": 1.716
+      },
+      {
+        "joint": 13,
+        "error": 1.7306
+      },
+      {
+        "joint": 14,
+        "error": 2.7361
+      },
+      {
+        "joint": 15,
+        "error": 3.7964
+      },
+      {
+        "joint": 16,
+        "error": 2.5434
+      },
+      {
+        "joint": 17,
+        "error": 1.323
+      },
+      {
+        "joint": 18,
+        "error": 1.9773
+      },
+      {
+        "joint": 19,
+        "error": 1.7187
+      },
+      {
+        "joint": 20,
+        "error": 1.4434
+      },
+      {
+        "joint": 21,
+        "error": 1.5788
+      },
+      {
+        "joint": 22,
+        "error": 1.4714
+      },
+      {
+        "joint": 23,
+        "error": 3.0293
+      },
+      {
+        "joint": 24,
+        "error": 2.4692
+      }
+    ]
+  },
+  {
+    "frame": 50,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.3802
+      },
+      {
+        "joint": 1,
+        "error": 1.8764
+      },
+      {
+        "joint": 2,
+        "error": 1.2444
+      },
+      {
+        "joint": 3,
+        "error": 1.893
+      },
+      {
+        "joint": 4,
+        "error": 1.193
+      },
+      {
+        "joint": 5,
+        "error": 1.8129
+      },
+      {
+        "joint": 6,
+        "error": 0.7795
+      },
+      {
+        "joint": 7,
+        "error": 1.2119
+      },
+      {
+        "joint": 8,
+        "error": 1.9617
+      },
+      {
+        "joint": 9,
+        "error": 0.477
+      },
+      {
+        "joint": 10,
+        "error": 2.3492
+      },
+      {
+        "joint": 11,
+        "error": 1.1038
+      },
+      {
+        "joint": 12,
+        "error": 2.737
+      },
+      {
+        "joint": 13,
+        "error": 1.1567
+      },
+      {
+        "joint": 14,
+        "error": 2.9666
+      },
+      {
+        "joint": 15,
+        "error": 0.6137
+      },
+      {
+        "joint": 16,
+        "error": 2.2816
+      },
+      {
+        "joint": 17,
+        "error": 3.9213
+      },
+      {
+        "joint": 18,
+        "error": 0.4096
+      },
+      {
+        "joint": 19,
+        "error": 1.2122
+      },
+      {
+        "joint": 20,
+        "error": 3.1008
+      },
+      {
+        "joint": 21,
+        "error": 4.5181
+      },
+      {
+        "joint": 22,
+        "error": 1.6196
+      },
+      {
+        "joint": 23,
+        "error": 1.0428
+      },
+      {
+        "joint": 24,
+        "error": 1.5717
+      }
+    ]
+  },
+  {
+    "frame": 51,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.4221
+      },
+      {
+        "joint": 1,
+        "error": 2.9936
+      },
+      {
+        "joint": 2,
+        "error": 3.4009
+      },
+      {
+        "joint": 3,
+        "error": 1.4866
+      },
+      {
+        "joint": 4,
+        "error": 1.3135
+      },
+      {
+        "joint": 5,
+        "error": 1.464
+      },
+      {
+        "joint": 6,
+        "error": 2.5969
+      },
+      {
+        "joint": 7,
+        "error": 0.6985
+      },
+      {
+        "joint": 8,
+        "error": 1.2025
+      },
+      {
+        "joint": 9,
+        "error": 2.4238
+      },
+      {
+        "joint": 10,
+        "error": 1.1991
+      },
+      {
+        "joint": 11,
+        "error": 1.5027
+      },
+      {
+        "joint": 12,
+        "error": 2.7929
+      },
+      {
+        "joint": 13,
+        "error": 2.1728
+      },
+      {
+        "joint": 14,
+        "error": 0.5703
+      },
+      {
+        "joint": 15,
+        "error": 0.8234
+      },
+      {
+        "joint": 16,
+        "error": 1.317
+      },
+      {
+        "joint": 17,
+        "error": 0.6237
+      },
+      {
+        "joint": 18,
+        "error": 2.199
+      },
+      {
+        "joint": 19,
+        "error": 3.1611
+      },
+      {
+        "joint": 20,
+        "error": 2.6387
+      },
+      {
+        "joint": 21,
+        "error": 0.5347
+      },
+      {
+        "joint": 22,
+        "error": 0.3264
+      },
+      {
+        "joint": 23,
+        "error": 0.4542
+      },
+      {
+        "joint": 24,
+        "error": 1.2924
+      }
+    ]
+  },
+  {
+    "frame": 52,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.8283
+      },
+      {
+        "joint": 1,
+        "error": 3.3409
+      },
+      {
+        "joint": 2,
+        "error": 2.2021
+      },
+      {
+        "joint": 3,
+        "error": 3.1903
+      },
+      {
+        "joint": 4,
+        "error": 2.1861
+      },
+      {
+        "joint": 5,
+        "error": 1.5949
+      },
+      {
+        "joint": 6,
+        "error": 1.2272
+      },
+      {
+        "joint": 7,
+        "error": 0.9505
+      },
+      {
+        "joint": 8,
+        "error": 1.4488
+      },
+      {
+        "joint": 9,
+        "error": 0.3827
+      },
+      {
+        "joint": 10,
+        "error": 3.3856
+      },
+      {
+        "joint": 11,
+        "error": 2.6322
+      },
+      {
+        "joint": 12,
+        "error": 0.4995
+      },
+      {
+        "joint": 13,
+        "error": 1.0813
+      },
+      {
+        "joint": 14,
+        "error": 1.7915
+      },
+      {
+        "joint": 15,
+        "error": 1.7151
+      },
+      {
+        "joint": 16,
+        "error": 1.4392
+      },
+      {
+        "joint": 17,
+        "error": 0.7738
+      },
+      {
+        "joint": 18,
+        "error": 1.2019
+      },
+      {
+        "joint": 19,
+        "error": 2.3923
+      },
+      {
+        "joint": 20,
+        "error": 1.7135
+      },
+      {
+        "joint": 21,
+        "error": 1.1953
+      },
+      {
+        "joint": 22,
+        "error": 1.4362
+      },
+      {
+        "joint": 23,
+        "error": 1.2678
+      },
+      {
+        "joint": 24,
+        "error": 2.1215
+      }
+    ]
+  },
+  {
+    "frame": 53,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 2.1999
+      },
+      {
+        "joint": 1,
+        "error": 2.7118
+      },
+      {
+        "joint": 2,
+        "error": 1.9323
+      },
+      {
+        "joint": 3,
+        "error": 0.7575
+      },
+      {
+        "joint": 4,
+        "error": 1.4844
+      },
+      {
+        "joint": 5,
+        "error": 0.6452
+      },
+      {
+        "joint": 6,
+        "error": 1.0424
+      },
+      {
+        "joint": 7,
+        "error": 2.7306
+      },
+      {
+        "joint": 8,
+        "error": 0.3823
+      },
+      {
+        "joint": 9,
+        "error": 1.5675
+      },
+      {
+        "joint": 10,
+        "error": 2.9008
+      },
+      {
+        "joint": 11,
+        "error": 2.0552
+      },
+      {
+        "joint": 12,
+        "error": 2.5477
+      },
+      {
+        "joint": 13,
+        "error": 0.9117
+      },
+      {
+        "joint": 14,
+        "error": 0.6065
+      },
+      {
+        "joint": 15,
+        "error": 3.4961
+      },
+      {
+        "joint": 16,
+        "error": 0.903
+      },
+      {
+        "joint": 17,
+        "error": 1.8436
+      },
+      {
+        "joint": 18,
+        "error": 3.4926
+      },
+      {
+        "joint": 19,
+        "error": 3.6834
+      },
+      {
+        "joint": 20,
+        "error": 0.5597
+      },
+      {
+        "joint": 21,
+        "error": 1.9254
+      },
+      {
+        "joint": 22,
+        "error": 3.1421
+      },
+      {
+        "joint": 23,
+        "error": 2.2758
+      },
+      {
+        "joint": 24,
+        "error": 1.185
+      }
+    ]
+  },
+  {
+    "frame": 54,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 0.5183
+      },
+      {
+        "joint": 1,
+        "error": 2.2905
+      },
+      {
+        "joint": 2,
+        "error": 2.065
+      },
+      {
+        "joint": 3,
+        "error": 2.6497
+      },
+      {
+        "joint": 4,
+        "error": 1.6257
+      },
+      {
+        "joint": 5,
+        "error": 2.0504
+      },
+      {
+        "joint": 6,
+        "error": 2.3867
+      },
+      {
+        "joint": 7,
+        "error": 2.9871
+      },
+      {
+        "joint": 8,
+        "error": 2.4503
+      },
+      {
+        "joint": 9,
+        "error": 2.6408
+      },
+      {
+        "joint": 10,
+        "error": 3.0364
+      },
+      {
+        "joint": 11,
+        "error": 0.6579
+      },
+      {
+        "joint": 12,
+        "error": 2.0437
+      },
+      {
+        "joint": 13,
+        "error": 1.6501
+      },
+      {
+        "joint": 14,
+        "error": 1.9974
+      },
+      {
+        "joint": 15,
+        "error": 1.6997
+      },
+      {
+        "joint": 16,
+        "error": 1.3535
+      },
+      {
+        "joint": 17,
+        "error": 1.4734
+      },
+      {
+        "joint": 18,
+        "error": 1.8647
+      },
+      {
+        "joint": 19,
+        "error": 1.8369
+      },
+      {
+        "joint": 20,
+        "error": 1.7433
+      },
+      {
+        "joint": 21,
+        "error": 2.6492
+      },
+      {
+        "joint": 22,
+        "error": 1.6688
+      },
+      {
+        "joint": 23,
+        "error": 0.8809
+      },
+      {
+        "joint": 24,
+        "error": 1.9309
+      }
+    ]
+  },
+  {
+    "frame": 55,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.0717
+      },
+      {
+        "joint": 1,
+        "error": 1.0479
+      },
+      {
+        "joint": 2,
+        "error": 0.4115
+      },
+      {
+        "joint": 3,
+        "error": 1.7778
+      },
+      {
+        "joint": 4,
+        "error": 1.2778
+      },
+      {
+        "joint": 5,
+        "error": 0.8906
+      },
+      {
+        "joint": 6,
+        "error": 0.7523
+      },
+      {
+        "joint": 7,
+        "error": 1.5473
+      },
+      {
+        "joint": 8,
+        "error": 0.9034
+      },
+      {
+        "joint": 9,
+        "error": 2.1676
+      },
+      {
+        "joint": 10,
+        "error": 0.8267
+      },
+      {
+        "joint": 11,
+        "error": 1.6958
+      },
+      {
+        "joint": 12,
+        "error": 1.6304
+      },
+      {
+        "joint": 13,
+        "error": 1.0923
+      },
+      {
+        "joint": 14,
+        "error": 2.6698
+      },
+      {
+        "joint": 15,
+        "error": 1.3927
+      },
+      {
+        "joint": 17,
+        "error": 1.022
+      },
+      {
+        "joint": 18,
+        "error": 2.6764
+      },
+      {
+        "joint": 19,
+        "error": 0.6137
+      },
+      {
+        "joint": 20,
+        "error": 2.5359
+      },
+      {
+        "joint": 21,
+        "error": 1.1482
+      },
+      {
+        "joint": 22,
+        "error": 2.6323
+      },
+      {
+        "joint": 23,
+        "error": 1.1921
+      },
+      {
+        "joint": 24,
+        "error": 2.2661
+      }
+    ]
+  },
+  {
+    "frame": 56,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 2.114
+      },
+      {
+        "joint": 1,
+        "error": 0.9633
+      },
+      {
+        "joint": 2,
+        "error": 1.5194
+      },
+      {
+        "joint": 3,
+        "error": 3.0488
+      },
+      {
+        "joint": 4,
+        "error": 2.8399
+      },
+      {
+        "joint": 5,
+        "error": 1.0261
+      },
+      {
+        "joint": 6,
+        "error": 0.4526
+      },
+      {
+        "joint": 7,
+        "error": 2.9797
+      },
+      {
+        "joint": 8,
+        "error": 1.7771
+      },
+      {
+        "joint": 9,
+        "error": 1.9325
+      },
+      {
+        "joint": 10,
+        "error": 2.584
+      },
+      {
+        "joint": 11,
+        "error": 1.9406
+      },
+      {
+        "joint": 12,
+        "error": 2.7364
+      },
+      {
+        "joint": 13,
+        "error": 1.8976
+      },
+      {
+        "joint": 14,
+        "error": 2.136
+      },
+      {
+        "joint": 15,
+        "error": 2.4977
+      },
+      {
+        "joint": 16,
+        "error": 1.6252
+      },
+      {
+        "joint": 17,
+        "error": 1.5597
+      },
+      {
+        "joint": 18,
+        "error": 1.6522
+      },
+      {
+        "joint": 21,
+        "error": 2.277
+      },
+      {
+        "joint": 22,
+        "error": 2.2796
+      },
+      {
+        "joint": 23,
+        "error": 1.7762
+      },
+      {
+        "joint": 24,
+        "error": 1.0265
+      }
+    ]
+  },
+  {
+    "frame": 57,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 2.9963
+      },
+      {
+        "joint": 1,
+        "error": 0.4577
+      },
+      {
+        "joint": 2,
+        "error": 1.709
+      },
+      {
+        "joint": 3,
+        "error": 2.5314
+      },
+      {
+        "joint": 4,
+        "error": 1.0295
+      },
+      {
+        "joint": 5,
+        "error": 2.6943
+      },
+      {
+        "joint": 6,
+        "error": 1.9858
+      },
+      {
+        "joint": 7,
+        "error": 2.2453
+      },
+      {
+        "joint": 8,
+        "error": 1.854
+      },
+      {
+        "joint": 9,
+        "error": 0.5563
+      },
+      {
+        "joint": 10,
+        "error": 2.8362
+      },
+      {
+        "joint": 11,
+        "error": 0.9228
+      },
+      {
+        "joint": 12,
+        "error": 2.0088
+      },
+      {
+        "joint": 13,
+        "error": 1.5287
+      },
+      {
+        "joint": 14,
+        "error": 2.2375
+      },
+      {
+        "joint": 15,
+        "error": 1.8143
+      },
+      {
+        "joint": 16,
+        "error": 1.1264
+      },
+      {
+        "joint": 17,
+        "error": 2.4167
+      },
+      {
+        "joint": 18,
+        "error": 1.3689
+      },
+      {
+        "joint": 19,
+        "error": 1.1133
+      },
+      {
+        "joint": 20,
+        "error": 0.4866
+      },
+      {
+        "joint": 21,
+        "error": 0.659
+      },
+      {
+        "joint": 22,
+        "error": 3.1088
+      },
+      {
+        "joint": 23,
+        "error": 1.1406
+      },
+      {
+        "joint": 24,
+        "error": 2.7372
+      }
+    ]
+  },
+  {
+    "frame": 58,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 0.7175
+      },
+      {
+        "joint": 1,
+        "error": 2.1027
+      },
+      {
+        "joint": 2,
+        "error": 1.3212
+      },
+      {
+        "joint": 3,
+        "error": 0.2191
+      },
+      {
+        "joint": 4,
+        "error": 1.4898
+      },
+      {
+        "joint": 5,
+        "error": 1.2476
+      },
+      {
+        "joint": 6,
+        "error": 2.1532
+      },
+      {
+        "joint": 7,
+        "error": 2.0114
+      },
+      {
+        "joint": 8,
+        "error": 2.1504
+      },
+      {
+        "joint": 9,
+        "error": 1.769
+      },
+      {
+        "joint": 10,
+        "error": 1.0603
+      },
+      {
+        "joint": 11,
+        "error": 2.31
+      },
+      {
+        "joint": 12,
+        "error": 0.2043
+      },
+      {
+        "joint": 13,
+        "error": 1.878
+      },
+      {
+        "joint": 14,
+        "error": 1.2988
+      },
+      {
+        "joint": 15,
+        "error": 1.0261
+      },
+      {
+        "joint": 16,
+        "error": 1.0729
+      },
+      {
+        "joint": 17,
+        "error": 2.3605
+      },
+      {
+        "joint": 18,
+        "error": 2.9979
+      },
+      {
+        "joint": 19,
+        "error": 1.3923
+      },
+      {
+        "joint": 20,
+        "error": 0.8761
+      },
+      {
+        "joint": 21,
+        "error": 2.1517
+      },
+      {
+        "joint": 22,
+        "error": 1.3845
+      },
+      {
+        "joint": 23,
+        "error": 1.0818
+      },
+      {
+        "joint": 24,
+        "error": 0.6864
+      }
+    ]
+  },
+  {
+    "frame": 59,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.0078
+      },
+      {
+        "joint": 1,
+        "error": 1.9125
+      },
+      {
+        "joint": 2,
+        "error": 0.8129
+      },
+      {
+        "joint": 3,
+        "error": 1.9287
+      },
+      {
+        "joint": 4,
+        "error": 1.535
+      },
+      {
+        "joint": 5,
+        "error": 2.4024
+      },
+      {
+        "joint": 6,
+        "error": 2.7173
+      },
+      {
+        "joint": 7,
+        "error": 1.797
+      },
+      {
+        "joint": 8,
+        "error": 3.5947
+      },
+      {
+        "joint": 9,
+        "error": 1.6449
+      },
+      {
+        "joint": 10,
+        "error": 0.4142
+      },
+      {
+        "joint": 11,
+        "error": 2.2382
+      },
+      {
+        "joint": 12,
+        "error": 0.5007
+      },
+      {
+        "joint": 13,
+        "error": 2.5793
+      },
+      {
+        "joint": 14,
+        "error": 0.6736
+      },
+      {
+        "joint": 15,
+        "error": 2.4964
+      },
+      {
+        "joint": 16,
+        "error": 0.4289
+      },
+      {
+        "joint": 17,
+        "error": 0.2388
+      },
+      {
+        "joint": 18,
+        "error": 2.0198
+      },
+      {
+        "joint": 19,
+        "error": 0.9081
+      },
+      {
+        "joint": 20,
+        "error": 1.9178
+      },
+      {
+        "joint": 21,
+        "error": 3.3244
+      },
+      {
+        "joint": 22,
+        "error": 0.7876
+      },
+      {
+        "joint": 23,
+        "error": 1.3197
+      },
+      {
+        "joint": 24,
+        "error": 2.32
+      }
+    ]
+  },
+  {
+    "frame": 60,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 0.73
+      },
+      {
+        "joint": 1,
+        "error": 2.8689
+      },
+      {
+        "joint": 2,
+        "error": 1.606
+      },
+      {
+        "joint": 3,
+        "error": 2.4469
+      },
+      {
+        "joint": 4,
+        "error": 3.5155
+      },
+      {
+        "joint": 5,
+        "error": 1.9986
+      },
+      {
+        "joint": 6,
+        "error": 2.7441
+      },
+      {
+        "joint": 7,
+        "error": 1.8921
+      },
+      {
+        "joint": 8,
+        "error": 3.5586
+      },
+      {
+        "joint": 10,
+        "error": 0.9014
+      },
+      {
+        "joint": 11,
+        "error": 2.2347
+      },
+      {
+        "joint": 12,
+        "error": 2.6226
+      },
+      {
+        "joint": 13,
+        "error": 2.8098
+      },
+      {
+        "joint": 14,
+        "error": 1.3991
+      },
+      {
+        "joint": 15,
+        "error": 2.8142
+      },
+      {
+        "joint": 16,
+        "error": 2.2401
+      },
+      {
+        "joint": 17,
+        "error": 0.8726
+      },
+      {
+        "joint": 18,
+        "error": 2.9611
+      },
+      {
+        "joint": 19,
+        "error": 2.0079
+      },
+      {
+        "joint": 20,
+        "error": 0.2284
+      },
+      {
+        "joint": 21,
+        "error": 1.0421
+      },
+      {
+        "joint": 22,
+        "error": 0.8856
+      },
+      {
+        "joint": 23,
+        "error": 1.855
+      },
+      {
+        "joint": 24,
+        "error": 1.1552
+      }
+    ]
+  },
+  {
+    "frame": 61,
+    "flaws": [
+      {
+        "joint": 0,
+        "error": 1.881
+      },
+      {
+        "joint": 1,
+        "error": 2.8065
+      },
+      {
+        "joint": 2,
+        "error": 2.4699
+      },
+      {
+        "joint": 3,
+        "error": 3.4957
+      },
+      {
+        "joint": 4,
+        "error": 2.2045
+      },
+      {
+        "joint": 5,
+        "error": 0.8172
+      },
+      {
+        "joint": 6,
+        "error": 2.6422
+      },
+      {
+        "joint": 7,
+        "error": 2.0976
+      },
+      {
+        "joint": 8,
+        "error": 1.5084
+      },
+      {
+        "joint": 9,
+        "error": 1.0557
+      },
+      {
+        "joint": 10,
+        "error": 0.5561
+      },
+      {
+        "joint": 11,
+        "error": 1.2274
+      },
+      {
+        "joint": 12,
+        "error": 0.9781
+      },
+      {
+        "joint": 13,
+        "error": 2.7981
+      },
+      {
+        "joint": 14,
+        "error": 1.6625
+      },
+      {
+        "joint": 15,
+        "error": 2.2791
+      },
+      {
+        "joint": 16,
+        "error": 2.2857
+      },
+      {
+        "joint": 17,
+        "error": 2.0231
+      },
+      {
+        "joint": 18,
+        "error": 2.892
+      },
+      {
+        "joint": 19,
+        "error": 1.0856
+      },
+      {
+        "joint": 20,
+        "error": 1.8001
+      },
+      {
+        "joint": 21,
+        "error": 2.3195
+      },
+      {
+        "joint": 22,
+        "error": 2.8715
+      },
+      {
+        "joint": 23,
+        "error": 0.8259
+      },
+      {
+        "joint": 24,
+        "error": 1.2805
+      }
+    ]
+  }
+]

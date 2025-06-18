@@ -1,0 +1,7 @@
+{
+  "model_id": "test_gold",
+  "joints": [
+    { "frame": 0, "joint": 0, "x": 100, "y": 150 },
+    { "frame": 0, "joint": 1, "x": 120, "y": 170 }
+  ]
+}

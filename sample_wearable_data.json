@@ -1,0 +1,18 @@
+[
+  {
+    "athlete_id": "Athlete_1",
+    "readings": [
+      {"timestamp": 1.0, "heart_rate": 122, "accel": 0.87},
+      {"timestamp": 2.5, "heart_rate": 130, "accel": 1.12},
+      {"timestamp": 4.0, "heart_rate": 138, "accel": 1.44}
+    ]
+  },
+  {
+    "athlete_id": "Athlete_2",
+    "readings": [
+      {"timestamp": 1.0, "heart_rate": 115, "accel": 0.92},
+      {"timestamp": 2.5, "heart_rate": 124, "accel": 1.08},
+      {"timestamp": 4.0, "heart_rate": 132, "accel": 1.26}
+    ]
+  }
+]

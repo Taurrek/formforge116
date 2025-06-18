@@ -1,0 +1,7 @@
+[
+  {"timestamp": "2025-06-07T00:00:00", "joint_velocity": 0.5},
+  {"timestamp": "2025-06-07T00:00:01", "joint_velocity": 0.6},
+  {"timestamp": "2025-06-07T00:00:02", "joint_velocity": 0.7},
+  {"timestamp": "2025-06-07T00:00:03", "joint_velocity": 0.8},
+  {"timestamp": "2025-06-07T00:00:04", "joint_velocity": 0.9}
+]
